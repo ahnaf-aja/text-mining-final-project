@@ -1,0 +1,673 @@
+doc_id,source,title,label,bilstm,indobert
+D03723,liputan6,"Kumpulan Prompt Gemini AI untuk Simulasi Gaya Rambut Pendek Wanita, dari Bob sampai Pixie",Hiburan,Hiburan,Hiburan
+D05671,detik,Cewek Open BO Tanya AI Cara Tenang Hadapi Polisi Usai ASN Lompat dari Lantai 12,Nasional,Nasional,Nasional
+D03168,detik,"Jangan Keasyikan Curhat ke ChatGPT, Ini Bahayanya",Teknologi,Pendidikan,Teknologi
+D05688,liputan6,"OpenAI Rilis Keyboard Codex Micro, Apa Fungsinya?",Teknologi,Teknologi,Teknologi
+D02591,cnn,"AI, Ruang Redaksi dan Nalar Masa Depan Jurnalisme",Teknologi,Teknologi,Nasional
+D00254,cnn,Joe Russo Prediksi Teknologi AI Bisa Buat Film Dua Tahun Mendatang,Hiburan,Hiburan,Hiburan
+D00089,liputan6,"CEO Nvidia Puji ChatGPT, Samakan dengan Kemunculan iPhone Tapi untuk AI",Teknologi,Teknologi,Teknologi
+D03295,detik,"Bicara Ancaman AI, CT Ajak Anak Muda Ciptakan Lapangan Kerja Baru",Ekonomi,Ekonomi,Ekonomi
+D05027,detik,"LG Bidik Pasar RI dengan Home Appliance AI, Dishwasher Segera Hadir?",Teknologi,Teknologi,Teknologi
+D04801,detik,Microsoft Patenkan AI yang Bisa Bantu Gamer Tamatkan Game,Teknologi,Teknologi,Teknologi
+D06192,cnn,"Bos Anthropic Peringatkan AI Bisa Lepas Kendali, Ancam Manusia",Teknologi,Teknologi,Teknologi
+D01722,detik,"Keanu Reeves Nolak Terus, John Wick Kalah dari AI",Hiburan,Hiburan,Hiburan
+D04448,detik,Menaker Dorong Lulusan Kampus Siap Kerja dan Hadapi Disrupsi AI,Nasional,Ekonomi,Nasional
+D06045,liputan6,Cerita Megawati Kaget Wajahnya Dicatut AI Iklan Kue,Nasional,Ekonomi,Nasional
+D02830,detik,Ini Satu-satunya Kampus di Indonesia Peraih Digital Innovation Awards 2025,Pendidikan,Pendidikan,Pendidikan
+D05712,detik,Indonesia dan China Perkuat Kerja Sama Strategis Bidang AI-Investasi Hijau,Ekonomi,Ekonomi,Ekonomi
+D02643,liputan6,OJK Luncurkan Tata Kelola Kecerdasan Buatan Buat Perbankan Indonesia,Ekonomi,Ekonomi,Ekonomi
+D02655,liputan6,"Iseng Minta AI Baca Garis Tangan, Wanita Ini Dapat Peringatan Keras",Hiburan,Hiburan,Hiburan
+D03917,liputan6,"Meta PHK 600 Karyawan di Divisi AI, Proyek Superintelijen Belum Tunjukkan Hasil",Teknologi,Teknologi,Ekonomi
+D02678,liputan6,Aplikasi Berbasis AI Jadi Penyebab 51 Miliar Serangan Web di Asia Pasifik dan Jepang,Teknologi,Teknologi,Teknologi
+D04828,detik,Freya JKT48 Lapor Polisi gegara Fotonya Diedit Pakai Grok AI,Nasional,Nasional,Hiburan
+D05216,liputan6,"AI Grok Kecolongan, Pengguna X Raup Kripto Rp 3 Miliar lewat Manipulasi Kode Morse",Ekonomi,Teknologi,Ekonomi
+D04493,detik,"Ini Emily, Boneka Seks AI yang Punya 'Perasaan' dan Bisa Diajak Curhat",Teknologi,Teknologi,Hiburan
+D03870,detik,Polda Jateng Selidiki Kasus Chiko Tukang Edit Foto Cabul Pakai AI,Nasional,Nasional,Nasional
+D00954,liputan6,"Penipuan AI dan Deepfake Diperkirakan Marak di 2024, Simak Cara Menghindarinya",Teknologi,Teknologi,Teknologi
+D03891,detik,Suami Suzanne Somers Hidupkan Lagi Mendiang Istri Lewat Teknologi AI,Hiburan,Hiburan,Hiburan
+D00213,detik,Walikota di Australia Ancam Gugat ChatGPT: Pencemaran Nama Baik,Teknologi,Teknologi,Teknologi
+D03310,detik,Chip AI Canggih Nvidia Kandas Dihantam China?,Teknologi,Teknologi,Teknologi
+D04542,detik,"Raksasa Teknologi AS Caplok Startup AI Rp 33 Triliun, China Mau Usut",Ekonomi,Teknologi,Ekonomi
+D03308,detik,Sekolah Rakyat Terapkan Deep Learning dan Ajarkan Mapel Koding-AI,Pendidikan,Pendidikan,Pendidikan
+D05775,liputan6,"Studi Ungkap Celah Keamanan Browser AI, Data Pengguna Bisa Dicuri",Teknologi,Teknologi,Teknologi
+D05609,liputan6,"Tony Blair Bertemu Prabowo, Bahas Transformasi Digital",Ekonomi,Ekonomi,Ekonomi
+D05683,cnn,"Dukung Agenda PBB, Airlangga Tandatangani Perjanjian Pendirian WAICO",Ekonomi,Ekonomi,Ekonomi
+D02964,detik,Bos Meta Tuding Bos OpenAI Bohong Soal Pembajakan Karyawan,Teknologi,Teknologi,Teknologi
+D05105,detik,"Makin Canggih, Hacker Kini Pakai AI dan Deepfake untuk Bobol Sistem Keamanan",Teknologi,Teknologi,Teknologi
+D04129,detik,Perempuan Jepang Nikahi Karakter AI yang Diciptakan di ChatGPT,Nasional,Hiburan,Hiburan
+D03660,liputan6,"Kumpulan Prompt Gemini AI Edit Foto jadi Anime, Unik Sesuai Imajinasi",Hiburan,Hiburan,Hiburan
+D06599,detik,Mahasiswa ITB Kembangkan AI untuk Pabrik hingga Truk Pendingin,Nasional,Pendidikan,Pendidikan
+D05185,detik,"Terungkap Dalam Putusan Gugatan, Wajah Evita Dimanipulasi AI Jadi Foto Syur",Nasional,Nasional,Nasional
+D04236,detik,RI Mulai Jajaki Pembangkit Listrik Berbasis AI,Ekonomi,Ekonomi,Ekonomi
+D04690,detik,"Deretan Fitur AI Baru di HyperOS 3, Bisa Bikin Wallpaper Bergerak",Teknologi,Teknologi,Teknologi
+D00057,detik,"Pandemi Usai, Orang Masih Getol Beli Makanan Lewat Online",Ekonomi,Teknologi,Ekonomi
+D05873,detik,Lintasarta Dorong Bank Daerah Tingkatkan Ketahanan Siber dan AI,Nasional,Ekonomi,Ekonomi
+D04660,detik,Suka Matematika? Jurusan AI di UI Bisa Jadi Pilihan,Pendidikan,Pendidikan,Pendidikan
+D01115,detik,Oppo Air Glass 3 Makin Pintar Dibekali Fitur AI,Teknologi,Teknologi,Teknologi
+D02140,detik,Emosi Kita dan Gagasan Pengembangan Asisten Suara,Teknologi,Teknologi,Nasional
+D02943,detik,"Said Aqil dan Wamen Stella Bicara di Konferensi Pesantren, Soroti soal AI",Nasional,Pendidikan,Nasional
+D04893,detik,"AI Diprediksi Dominasi Customer Service, Infrastruktur Jadi Kunci",Teknologi,Teknologi,Teknologi
+D02668,liputan6,"Semprotan Cabai Bertenaga AI Ini Bisa Usir Beruang Tanpa Melukainya, Kok Bisa?",Hiburan,Pendidikan,Teknologi
+D01765,detik,"Microsoft Rilis Update Windows 11 Versi 24H2, Ini Fitur Barunya",Teknologi,Teknologi,Teknologi
+D01713,detik,Wanti-wanti Megawati soal Penyalahgunaan AI Bisa Picu Kediktatoran Baru,Nasional,Nasional,Nasional
+D00073,detik,DKI Mulai Uji Coba Teknologi Artificial Intelligence di 5 Ruas Jalan,Nasional,Nasional,Nasional
+D06282,cnn,Agen AI OpenAI Bobol Portal Data Kesehatan Pemerintah Australia,Teknologi,Teknologi,Teknologi
+D00986,cnn,Orang Super Kaya dan Penguasa Dunia Kumpul di Davos Bahas 5 Isu Panas,Ekonomi,Teknologi,Ekonomi
+D04258,liputan6,"AI Ambil Alih Pekerjaan, Ini Tips Mantan Penasihat Jeff Bezos Buat Fresh Graduate",Ekonomi,Pendidikan,Ekonomi
+D06152,detik,"Sosok Luvidi, Raih Medali 2 Kali Berturut-turut di Olimpiade AI Dunia",Pendidikan,Pendidikan,Pendidikan
+D02258,cnn,Mendikdasmen: Coding-AI Jadi Matpel Pilihan di Tahun Ajaran 2025/2026,Nasional,Pendidikan,Pendidikan
+D03326,cnn,"Luhut Punya Jurus Bantu Prabowo Pangkas Defisit APBN Rp400 T, Apa Itu?",Ekonomi,Ekonomi,Ekonomi
+D03240,detik,"Ngeri, Zuckerberg Klaim AI Meta Sudah Bisa Belajar Sendiri",Teknologi,Teknologi,Teknologi
+D06392,detik,Dedi Mulyadi Ungkap Alasan Pusat Data AI Jatiluhur Disetop,Nasional,Nasional,Nasional
+D06332,detik,Kapolri Ajak Mahasiswa UMSU Kuasai Teknologi untuk Indonesia Emas 2045,Nasional,Nasional,Nasional
+D04287,detik,20 Finalis BUDAYA GO! 2025 Pamerkan Inovasi Digital Kekayaan Budaya,Nasional,Nasional,Pendidikan
+D03491,detik,"Link dan Contoh Prompt Gemini AI Foto Polaroid, Action Figure Bergerak-Miniatur",Nasional,Nasional,Nasional
+D05478,detik,Cerita Guru Indonesia Ciptakan Kelas Lebih Inspiratif Bersama Samsung,Pendidikan,Pendidikan,Teknologi
+D00080,cnn,"Bing AI Microsoft Buat Kesalahan Fatal, Gagal Olah Laporan Keuangan",Teknologi,Teknologi,Teknologi
+D02961,detik,"Sinopsis Film M3GAN 2.0, Pertarungan Dua Boneka AI Mematikan",Nasional,Hiburan,Hiburan
+D03749,detik,Pentolan AI Cemas Manusia di Ambang Kiamat,Teknologi,Teknologi,Teknologi
+D04133,detik,Shanghai Mau Jadi Kota Restoran Berbasis Robot Kelas Dunia di 2028,Ekonomi,Nasional,Ekonomi
+D02618,detik,Apa Itu 'Anomali' yang Sedang Viral di Medsos? Ini Arti dan Penjelasannya,Nasional,Nasional,Nasional
+D06435,cnn,Benarkah Data Center AI Bakal Sedot Habis Air?,Teknologi,Teknologi,Teknologi
+D04060,detik,Paman di Manggarai Barat Perkosa Keponakan hingga Hamil 7 Bulan,Nasional,Nasional,Nasional
+D04791,detik,Indosat Incar Pemanfaatan 5G AI-RAN dari Rumah hingga Industri,Teknologi,Nasional,Teknologi
+D05865,liputan6,Pendiri Strategy Michael Saylor Raup Rp 268 Triliun Berkat ChatGPT,Ekonomi,Hiburan,Ekonomi
+D03720,detik,"AI Bisa Bikin UMKM Pariwisata Naik Kelas, Bagaimana Caranya?",Ekonomi,Ekonomi,Ekonomi
+D05293,detik,"Investigasi Deepfake Untan Maksimal 25 Mei, Satgas Siapkan Rekomendasi Sanksi",Nasional,Nasional,Nasional
+D04149,detik,"Pembuat iPhone Air Tinggalkan Apple, Gabung Startup AI Misterius",Teknologi,Teknologi,Teknologi
+D02451,detik,Kemendikdasmen Luncurkan Naskah Akademik Kurikulum Koding dan AI: Siswa Bakal 'Ngoding' 2-4 Jam,Pendidikan,Pendidikan,Pendidikan
+D02638,detik,Generasi Muda Punya Andil Wujudkan Bandung Smart City,Nasional,Nasional,Nasional
+D01705,liputan6,Pizza Bikinan ChatGPT Jadi Tren di Salah Satu Restoran Dubai,Teknologi,Teknologi,Hiburan
+D01238,detik,"Ketemu Eks PM Inggris Tony Blair, Gibran Cerita Bakal Ada Investasi AI di Solo",Nasional,Ekonomi,Nasional
+D02146,detik,"Awal Tahun Saham GOTO Ngegas 23%, Analis Ungkap Katalisnya",Ekonomi,Ekonomi,Ekonomi
+D04386,detik,Gelar Game of The Year Clair Obscur: Expedition 33 Dicabut Gegara Pakai AI,Teknologi,Teknologi,Teknologi
+D04375,detik,Mengajar di Era AI,Pendidikan,Pendidikan,Pendidikan
+D06653,liputan6,AI Bisa Prediksi Risiko Kematian Pasien Kanker Lewat Foto Wajah,Teknologi,Pendidikan,Pendidikan
+D01202,detik,Indosat-Nvidia Investasi Rp 3 Triliun Bikin Pusat AI di Solo,Teknologi,Ekonomi,Teknologi
+D02685,detik,Wajib Tahu! Ini Skill yang Paling Banyak Dicari Perusahaan Saat Ini,Ekonomi,Ekonomi,Ekonomi
+D03128,liputan6,"Ojol Tak Dilindungi, Wamenaker Sebut Negara Gagal Atur Ekonomi Digital",Ekonomi,Ekonomi,Ekonomi
+D04984,detik,Lurah di Jaktim Minta Maaf Laporan Parkir Liar via JAKI Dibalas Foto AI,Nasional,Nasional,Nasional
+D01544,detik,Zudan Arif Tegaskan Sulsel Siap Jadi Pilot Project Penerapan AI,Nasional,Ekonomi,Nasional
+D00527,detik,Tech Data Jajakan Produk Jaringan Berbasis AI dari Allied Telesis,Teknologi,Teknologi,Teknologi
+D06190,liputan6,Saham Teknologi Terdampak Sentimen Perlambatan Sektor AI,Ekonomi,Ekonomi,Ekonomi
+D02616,detik,"Mahasiswa Unud Lakukan Pelecehan Berbasis AI, Korban Diduga Tak Hanya Satu",Nasional,Nasional,Nasional
+D03121,detik,Pelatihan Bahasa Inggris Berbasis AI ala PLN dan ELSA,Teknologi,Teknologi,Ekonomi
+D05463,detik,"Cara Tepat Interpretasi Hasil Regresi di Penelitian, Ternyata Bisa Pakai AI",Pendidikan,Pendidikan,Pendidikan
+D05075,detik,"LAFEST 2026 Telkom University Digelar, Yuk Ikut Kompetisi Bahasanya",Nasional,Teknologi,Pendidikan
+D04808,cnn,"Senjata AI Ini Jadi Kunci Serangan AS ke Iran, Bisa Hantam 1000 Target",Teknologi,Teknologi,Teknologi
+D00550,cnn,"Masih Butuh Kajian, Kominfo Tak Buru-buru Bikin Regulasi Soal AI",Teknologi,Teknologi,Teknologi
+D06485,liputan6,Ketua Dewan Pers Dorong Perlindungan Karya Jurnalistik di Era AI,Nasional,Ekonomi,Nasional
+D05126,liputan6,"OpenAI Mau Bikin Smartphone AI, Produksi Massal Ditargetkan 2028",Teknologi,Teknologi,Teknologi
+D06082,detik,"Astra Model OpenAI Super Edan, Dengan Mudah Masuk ke Sistem Komputer",Teknologi,Teknologi,Teknologi
+D02054,detik,ChatGPT Search Kini Gratis Untuk Semua Pengguna,Teknologi,Teknologi,Teknologi
+D01800,liputan6,"Optimalkan Potensi AI, Mahasiswa UMB Sosialisasikan Penggunaan Bijak ChatGPT",Nasional,Pendidikan,Nasional
+D04476,liputan6,"OpenAI Merilis ChatGPT Health, Ruang Khusus Konsultasi Kesehatan dan Kebugaran di ChatGPT",Teknologi,Teknologi,Teknologi
+D06179,detik,AI Bakal Diatur Ketat Buat Drama China,Hiburan,Teknologi,Hiburan
+D03477,detik,12 Contoh Prompt Gemini AI Bahasa Indonesia untuk Bikin Foto Polaroid-Miniatur,Nasional,Nasional,Pendidikan
+D06203,detik,Mendiktisaintek Ingatkan Mahasiswa agar Tak Diperbudak AI,Nasional,Pendidikan,Nasional
+D06497,cnn,Cara Cek Foto dan Video Buatan AI Pakai SynthID Google,Teknologi,Teknologi,Teknologi
+D03143,liputan6,"Bos OpenAI Sam Altman Mengaku Takut sama GPT-5, Kenapa?",Teknologi,Teknologi,Teknologi
+D04333,detik,"Disney Tegas Soal AI, Google Hapus Konten Karakter Tanpa Lisensi",Hiburan,Teknologi,Teknologi
+D00033,detik,"7 Profesi yang Tak Bisa Digantikan AI, Cek di Sini",Nasional,Ekonomi,Pendidikan
+D02392,detik,"Jack Ma Damai dengan Xi Jinping, Alibaba Gaspol",Teknologi,Ekonomi,Ekonomi
+D03938,cnn,Amazon PHK 30 Ribu Orang Karyawan Gara-gara AI,Ekonomi,Ekonomi,Ekonomi
+D04656,detik,"Telkom Buka Magang Khusus AI dan B2B Solutions, Pendaftaran Tutup 8 Februari!",Pendidikan,Teknologi,Ekonomi
+D01498,detik,"Kena Sanksi AS, Huawei Optimistis Terdepan Soal AI di China",Teknologi,Teknologi,Teknologi
+D03505,detik,"Petinggi Apple Mengundurkan Diri Usai iPhone 17 Dirilis, Ada Apa?",Ekonomi,Ekonomi,Teknologi
+D03075,detik,Mesin Uang Baru Israel Sudah Raup Rp 326 Triliun,Teknologi,Teknologi,Teknologi
+D01205,detik,"Samsung Rilis Bespoke AI, Bikin Perangkat Rumah Makin Pintar",Teknologi,Teknologi,Teknologi
+D03399,liputan6,"Cara Bikin Foto Action Figure Mini di Google Gemini AI, Ini 4 Promptnya",Hiburan,Hiburan,Hiburan
+D01561,detik,Pemegang Golden Visa RI: Bos Boeing hingga Pendiri ChatGPT,Ekonomi,Ekonomi,Nasional
+D00825,detik,"Soal Iklan Susu Pakai AI TKN Prabowo, Praktisi Hukum: Tak Masuk dalam Aturan",Nasional,Hiburan,Nasional
+D02983,detik,"Raih Penghargaan UNESCO, Era Soekamto Bicara Filosofi Batik di Tengah Tren AI",Hiburan,Hiburan,Hiburan
+D03137,detik,"Pesanan dari China Membludak, Nvidia Geber Produksi Chip AI H20",Teknologi,Teknologi,Teknologi
+D04293,detik,"Dari Nol Hingga Bisa Bikin Kerjaan Jalan Otomatis dalam 2 Jam, Tanpa Coding!",Pendidikan,Pendidikan,Pendidikan
+D05119,detik,5 Cara Manfaatkan AI untuk Tingkatkan Efisiensi & Produktivitas Bisnis,Ekonomi,Teknologi,Teknologi
+D05111,detik,"Jor-joran Kembangkan AI, 2 Raksasa Teknologi Bakal Pangkas Karyawan Besar-besaran",Ekonomi,Ekonomi,Ekonomi
+D05405,detik,"Gara-gara Agen AI, Traffic Bot Kalahkan Manusia untuk Pertama Kalinya",Teknologi,Teknologi,Teknologi
+D05900,detik,Meta Prediksi Perdagangan Berbasis AI Akan Tumbuh Hingga USD 5 Triliun,Teknologi,Teknologi,Teknologi
+D04462,detik,Cara Membedakan Foto AI dan Foto Asli,Pendidikan,Pendidikan,Pendidikan
+D01988,liputan6,"Google Gemini Populer di Indonesia, Dipakai untuk Apa Saja?",Teknologi,Teknologi,Teknologi
+D04115,detik,Menulis Lebih Efisien! Intip 5 Peserta Terbaik Kelas AI For Creative Writing,Pendidikan,Pendidikan,Pendidikan
+D05639,cnn,"Bukan Sekadar Chatbot, Ini Daftar 9 Kemampuan Claude AI",Teknologi,Teknologi,Teknologi
+D01138,detik,Pakai Chatbot AI di Sekolah? Begini Kata Dosen Harvard & Menteri Nadiem,Pendidikan,Pendidikan,Pendidikan
+D02026,liputan6,"ChatGPT Sempat Down Serentak, Berikut Penyebabnya",Nasional,Teknologi,Teknologi
+D04655,detik,"Poin-poin Penting Megawati di Zayed Award: Riset, Perdamaian hingga AI",Nasional,Nasional,Nasional
+D00458,cnn,"Batasi Akses ke Twitter, Elon Musk Salahkan Perusahaan AI",Teknologi,Teknologi,Teknologi
+D00285,detik,"Usia Baru 32 Tahun, Shunsaku Sagami Orang Kaya Jepang Berharta Rp 14 T",Ekonomi,Ekonomi,Ekonomi
+D01111,detik,"Wakil Menkominfo Soal AI di Sektor Komunikasi: Bukan Lawan, Tapi...",Pendidikan,Pendidikan,Teknologi
+D00454,liputan6,Kongres AS Terapkan Aturan Baru untuk Penggunaan ChatGPT di Kantor,Teknologi,Ekonomi,Teknologi
+D02144,detik,Cisco: Mayoritas Perusahaan Indonesia Belum Siap Terapkan AI,Teknologi,Teknologi,Teknologi
+D05464,liputan6,Mark Zuckerberg Akui Meta Buat Kesalahan,Ekonomi,Ekonomi,Ekonomi
+D01823,detik,"3 Tahun, Realme Targetkan Bikin 100 Juta HP AI",Teknologi,Teknologi,Teknologi
+D02793,detik,Anak Usaha Telkom Lirik Investasi di Sektor AI-Cybersecurity,Ekonomi,Ekonomi,Ekonomi
+D00679,detik,Deretan Universitas di RI dengan Jurusan S1-S2 AI dan Prospek Kerjanya,Pendidikan,Pendidikan,Pendidikan
+D05902,cnn,"Singgung Studi AWS, Airlangga Beber Dampak Bisnis RI Adopsi AI",Ekonomi,Ekonomi,Ekonomi
+D00657,detik,KPK Akan Gunakan Teknologi AI untuk Periksa LHKPN 380 Ribu Orang,Nasional,Nasional,Nasional
+D03084,liputan6,"OpenAI bakal Tandai Gambar ChatGPT dengan Watermark, Untuk Apa?",Teknologi,Teknologi,Teknologi
+D03516,detik,Cara Cepat Identifikasi Saham Potensial Bareng x InvestasiKu,Ekonomi,Pendidikan,Pendidikan
+D00800,detik,Cisco: Baru 20% Perusahaan di Indonesia Siap Terapkan Teknologi AI,Teknologi,Ekonomi,Teknologi
+D03251,cnn,"Telkom Mau Semua BUMN Danantara Adopsi AI, Manusia Bisa Diganti",Teknologi,Teknologi,Teknologi
+D00732,cnn,Kominfo Bongkar Cara Produksi Video Deepfake Jokowi Berbahasa Mandarin,Teknologi,Teknologi,Teknologi
+D01447,detik,"Jangan Bilang-bilang, AI LinkedIn Bisa Tulis Surat Lamaran & Edit CV",Teknologi,Teknologi,Teknologi
+D04229,liputan6,"WhatsApp Larang Chatbot Pihak Ketiga dari Microsoft dan OpenAI, Ini Alasannya",Teknologi,Teknologi,Teknologi
+D02847,liputan6,"Kecerdasan Buatan Simpan Potensi Jumbo, Pemasar Perlu Atur Ulang Strategi",Ekonomi,Teknologi,Ekonomi
+D06120,cnn,"China Tayangkan Beyond Wukong, Drama Full AI Pertama",Hiburan,Hiburan,Hiburan
+D04974,detik,"Warga Lapor ke JAKI Direspons Foto AI, DKI Akan Tegur Kelurahan Kalisari",Nasional,Nasional,Nasional
+D02676,liputan6,"Pertama di Luar Jawa, Puluhan Siswa Tamtama TNI AL Masuk Kampus Belajar Manajemen dan Kece...",Nasional,Pendidikan,Nasional
+D03645,detik,Qualcomm Luncurkan Snapdragon X2 Elite: Performa Gahar untuk PC Windows,Teknologi,Teknologi,Teknologi
+D00906,detik,"Microsoft Copilot Bisa Bikin Lagu, Bisa Ancam Musisi",Teknologi,Hiburan,Teknologi
+D03063,detik,"Ngirit Cost, Ini Serial Pertama Netflix Pakai AI",Hiburan,Hiburan,Hiburan
+D05220,detik,"AI Claude Lakukan Pemerasan, Ternyata Belajar dari Internet",Teknologi,Teknologi,Teknologi
+D01285,cnn,BRI Raih 2 Apresiasi dalam Bank Service Excellence Monitor MRI 2024,Ekonomi,Ekonomi,Ekonomi
+D03666,detik,"ChatGPT Dinilai Terlalu 'Manis', Pengguna Ingin AI Bisa Membantah",Teknologi,Teknologi,Teknologi
+D04527,liputan6,"Mischka Aoki dan Devon Enzo Bikin Terobosan Baru, Latihan Public Speaking Berbasis Teknol...",Hiburan,Hiburan,Hiburan
+D00096,detik,5 Pekerjaan yang Akan Diambil Alih AI di Masa Depan,Teknologi,Ekonomi,Pendidikan
+D05264,detik,Menguak Sosok 'Penjilat' Nomor Satu Elon Musk di Jagat X,Teknologi,Teknologi,Teknologi
+D05839,detik,Belum Jago Python? Ini Cara Analisis Sentimen buat Skripsi Pakai Bantuan AI,Pendidikan,Pendidikan,Pendidikan
+D03907,detik,"Rayuan AI Lee Jung Jae Tipu Warga, Rp 5,7 Miliar Melayang",Hiburan,Teknologi,Hiburan
+D02801,detik,"Gempa Megathrust RI Tinggal Tunggu Waktu, Bisa Dimitigasi Pakai AI",Teknologi,Teknologi,Teknologi
+D04519,liputan6,"Claude for Healthcare Meluncur, Jawaban Anthropic atas ChatGPT Health",Teknologi,Teknologi,Teknologi
+D01591,detik,Luhut Bakal Manfaatkan AI Ubah Tanaman Herbal Langka Jadi Obat,Ekonomi,Ekonomi,Ekonomi
+D03283,detik,Apa Itu Deepfake? Disebut dalam Bantahan Menkeu Sebut Guru Beban Negara,Pendidikan,Teknologi,Ekonomi
+D00389,detik,M3gan Lebih Seram dari Boneka Berhantu,Hiburan,Hiburan,Hiburan
+D04937,detik,"Mengejutkan! Bos X Kaget, 'AI' Ternyata Asli Indonesia",Teknologi,Teknologi,Teknologi
+D06157,detik,"Nezar Patria Soroti Risiko AI, Data Salah Dianggap Kebenaran",Teknologi,Teknologi,Teknologi
+D01557,detik,"AI Bisa Bikin Ekonomi Digital Makin Moncer, Bagaimana Caranya?",Ekonomi,Ekonomi,Ekonomi
+D03949,detik,"Ramai Penjualan Foto di Aplikasi AI, Komdigi Ingatkan Fotografer Bisa Digugat",Nasional,Nasional,Nasional
+D05948,detik,Badai di OpenAI: Eksodus Petinggi Guncang Raksasa AI Jelang IPO,Teknologi,Ekonomi,Teknologi
+D02018,detik,"Manfaatkan AI, BRI Tegaskan Peran Manusia Tak Tergantikan",Ekonomi,Ekonomi,Ekonomi
+D05436,detik,NU Care-LAZISNU & Unilever Bekali 20 Ribu Perempuan Literasi Keuangan & AI,Nasional,Ekonomi,Ekonomi
+D01712,detik,"Dosen UI: Jangan Lawan Perkembangan AI Tapi Optimalkan, Mahasiswa Punya Pilihan",Pendidikan,Pendidikan,Pendidikan
+D04079,detik,Wow! Ekonomi Digital Asia Tenggara Capai Rp 5.000 Triliun Gara-Gara AI di 2025,Teknologi,Ekonomi,Ekonomi
+D05086,detik,Skandal AI Terbesar: iLearning Engines Diduga Tipu Investor Rp 25 Triliun,Nasional,Teknologi,Teknologi
+D03728,liputan6,"15 Prompt AI Edit Foto Nonton Konser yang Wajib Dicoba, Tampak Epik dan Realistis",Hiburan,Hiburan,Hiburan
+D02807,detik,Menanti Gadget Misterius dari Pembuat ChatGPT dan Jony Ive,Teknologi,Teknologi,Teknologi
+D02298,detik,Bulan Sutena Tegaskan Video Syur Miripnya Buatan AI,Nasional,Nasional,Hiburan
+D04212,cnn,"Masuk Daftar Global SEA EdTech Top 50, JayJay Perluas Kursus di Era AI",Hiburan,Pendidikan,Teknologi
+D01451,detik,Iklan TikTok Bakal Tampilkan Avatar yang Dibuat Oleh AI,Teknologi,Teknologi,Teknologi
+D01324,detik,AI Jadi Pisau Bermata Dua untuk Keamanan Siber,Teknologi,Teknologi,Teknologi
+D05163,liputan6,"Smartphone OpenAI bakal Hadir Lebih Cepat pada 2027, Spesifikasinya Bikin Penasaran",Teknologi,Teknologi,Teknologi
+D04413,detik,Kapolri Paparkan Tantangan 10 Tahun ke Depan: Cuaca Ekstrem hingga Dampak AI,Nasional,Ekonomi,Nasional
+D05098,detik,MV AI XODIAC Dapat Apresiasi Festival Film Internasional,Hiburan,Hiburan,Hiburan
+D06114,detik,"Bukan Jadi Realistis, Nvidia DLSS 5 Malah Bikin Karakter Game Seram",Teknologi,Hiburan,Teknologi
+D03022,liputan6,"Apple Tantang Dominasi Google, bakal Hadirkan Pencarian AI di Safari",Teknologi,Teknologi,Teknologi
+D04014,detik,Pria Ini Diburu Polisi gegara Bikin Lagu Pakai AI,Nasional,Nasional,Nasional
+D01441,detik,Apple Tak Bayar OpenAI untuk Pasang ChatGPT di Siri,Teknologi,Teknologi,Teknologi
+D04166,detik,Jokowi Yakin AI Tak Hilangkan Lapangan Kerja,Nasional,Ekonomi,Ekonomi
+D04773,detik,"Dari Barcelona ke Surabaya, Indosat Uji Jaringan 5G AI RAN di MWC 2026",Teknologi,Teknologi,Teknologi
+D00417,detik,Peringatan Bos ChatGPT Soal Disinformasi Jenis Baru,Teknologi,Teknologi,Teknologi
+D05154,liputan6,"Google Rombak Aplikasi Gemini, Apa Bedanya dari Versi Lama?",Teknologi,Hiburan,Teknologi
+D05895,detik,"Bappisus Minta Warga Tak Asal Percaya Info di Medsos, Bicara AI-Deepfake",Nasional,Pendidikan,Nasional
+D00778,detik,5 Fakta Mulut Manis Penipu CPNS yang Nyaris Bunuh Polisi,Nasional,Nasional,Nasional
+D03535,detik,"China Bikin Model AI Mirip Otak Manusia, Dilatih Pakai Chip Domestik",Teknologi,Teknologi,Teknologi
+D04499,detik,Membicarakan Teknologi yang Lebih 'Manusia' di CES 2026,Teknologi,Hiburan,Teknologi
+D02878,detik,Pembuat Video AI 'Ajak Umrah ke Candi Borobudur' Diperiksa Polisi dan Dispora,Nasional,Nasional,Nasional
+D05012,detik,Cerita Prabowo Jadi Korban Hoaks AI: Ada Pidato Saya Bahasa Mandarin-Arab,Nasional,Ekonomi,Nasional
+D03825,detik,Apple Rilis iPad Pro M5: Spesifikasi Lengkap dan Harga,Teknologi,Teknologi,Teknologi
+D03235,detik,"Mengejutkan, Startup AI Ini Berani Tawar Google Chrome Rp 560 T",Teknologi,Teknologi,Teknologi
+D02819,liputan6,"ChatGPT Populer, OpenAI Mau Buka Kantor di Korea Selatan",Teknologi,Teknologi,Teknologi
+D01027,detik,"Gambar Porno AI Taylor Swift Dilihat Jutaan Kali, Gedung Putih Shock",Teknologi,Teknologi,Hiburan
+D02747,detik,Pemprov Bali Bidik Guru Muda Jadi Pengajar Mapel AI,Nasional,Nasional,Nasional
+D06544,liputan6,Wamen UMKM Ingatkan Pelaku Usaha: Jangan Cuma Kejar Viral,Ekonomi,Ekonomi,Ekonomi
+D05591,liputan6,Kadin Indonesia dan Singapura Jalin Kerja Sama Digitalisasi UMKM,Ekonomi,Ekonomi,Ekonomi
+D03232,detik,"150 Pekerja TikTok di Jerman Kena PHK, Bakal Digantikan AI",Nasional,Ekonomi,Ekonomi
+D01574,detik,"Ditenagai Sederet Fitur AI, Seberapa Canggih OPPO Reno12 Series?",Teknologi,Teknologi,Teknologi
+D04682,detik,Sejauh Mana AI Layak Digunakan dalam Produksi Berita?,Nasional,Teknologi,Ekonomi
+D00950,cnn,"Beda dengan Pasukan 08, TPN Ganjar-Mahfud Sikat Isu Negatif Pakai AI",Nasional,Nasional,Nasional
+D06233,liputan6,Elon Musk Incar Data Startup Bangkrut untuk Latih AI Grok?,Teknologi,Teknologi,Teknologi
+D06389,detik,"Pusat Data AI Jatiluhur Disetop Sementara, Dedi Mulyadi: Tak Ada Peresmian",Nasional,Ekonomi,Nasional
+D03818,detik,Cara Ubah Materi Ujian Jadi Podcast Pakai Gemini AI,Nasional,Teknologi,Pendidikan
+D03304,liputan6,Riset: GenAI Berpotensi Perluas Penyebaran Misinformasi hingga Ancaman Privasi,Teknologi,Teknologi,Teknologi
+D06480,detik,AMD Siap Geber Produksi Chip: Permintaan Gegara AI Terus Meroket,Teknologi,Teknologi,Teknologi
+D06393,detik,Apa Itu Gamma AI? Ini Fitur dan Cara Menggunakannya,Nasional,Teknologi,Nasional
+D00531,cnn,Jokowi Akan Berikan Visa Emas ke CEO OpenAI Sam Altman,Ekonomi,Ekonomi,Ekonomi
+D02300,detik,Polda Metro Tangkap 2 Tersangka Pemalsuan Rekening Menggunakan AI,Nasional,Nasional,Nasional
+D03038,detik,AI di Galaxy Z Fold7 & Flip7 Bawa Pengalaman Layar Lipat ke Level Baru,Teknologi,Teknologi,Teknologi
+D01300,detik,"MediaTek Dimensity 9300+ Dirilis, Pengolahan AI Jadi Lebih Kencang",Teknologi,Teknologi,Teknologi
+D05887,cnn,Waspada! Misinformasi Sasar Anak Lewat AI,Teknologi,Pendidikan,Nasional
+D02238,cnn,"DeepSeek Tolak Jawab Pertanyaan Sensitif Soal China, Ini Kata Pakar",Teknologi,Teknologi,Teknologi
+D00159,cnn,JK Tak Percaya Kecerdasan Buatan Bakal Gantikan Manusia,Ekonomi,Ekonomi,Ekonomi
+D01457,cnn,Malaysia Jadi Favorit Investor Teknologi AI,Ekonomi,Teknologi,Ekonomi
+D04345,detik,"HP Diprediksi Balik Pakai RAM 4GB Tahun Depan, Ini Penjelasannya",Teknologi,Teknologi,Teknologi
+D02548,detik,Disrupsi AI: Menikmati atau Mati! (Bagian II-Habis),Pendidikan,Pendidikan,Nasional
+D04876,cnn,"Meta Dikabarkan Mau PHK Karyawan Besar-besaran, Ini Penyebabnya",Teknologi,Teknologi,Ekonomi
+D04456,detik,"Member JKT48 Jadi Korban Penyalahgunaan AI, Manajemen Akan Ambil Langkah Hukum",Hiburan,Ekonomi,Hiburan
+D05039,cnn,5 Skill yang Tak Tergantikan AI Menurut Bos LinkedIn,Hiburan,Teknologi,Hiburan
+D02179,detik,"Istri 'Selingkuh' dengan Pacar AI, Fenomena Baru di Era Digital",Hiburan,Hiburan,Hiburan
+D05636,liputan6,Kraken Siapkan Aplikasi Trading Kripto Otomatis,Ekonomi,Ekonomi,Ekonomi
+D04020,detik,Terbongkarnya Tipu-tipu Fasal Hasan Bikin Lagu Pakai AI hingga Jadi Buronan,Nasional,Nasional,Nasional
+D03637,liputan6,"TOP 3: Prompt AI Foto Dikelilingi Bunga, Inspirasi Warung Sembako di Teras dan Jenis Dagan...",Hiburan,Hiburan,Hiburan
+D04540,detik,Viral Tren Video AI Orangtua untuk Desak Anak Segera Menikah,Hiburan,Nasional,Hiburan
+D04692,detik,"Misteri Hilangnya Wahana Soviet Pertama di Bulan Terungkap, Dilacak Pakai AI",Pendidikan,Teknologi,Teknologi
+D05500,detik,"Pendapatan Pembuat ChatGPT Meroket, Tapi Tetap Tekor",Teknologi,Ekonomi,Teknologi
+D00849,detik,Kominfo Dukung Pengembangan 'Chat GPT' Versi Lokal,Teknologi,Teknologi,Teknologi
+D01590,detik,"AS Siapkan Sistem Pertahanan Udara Berbasis AI, Begini Cara Kerjanya",Teknologi,Teknologi,Teknologi
+D05234,detik,Ekonomi Digital RI Diproyeksi Tembus Rp 22.513 Triliun,Teknologi,Teknologi,Ekonomi
+D01882,liputan6,"Kenali Kelebihan Mesin Cuci LG WM AI DD 2.0, Kapasitas Besar dengan Teknologi AI",Hiburan,Hiburan,Teknologi
+D00439,detik,Jepang Bolehkan Penggunaan Teknologi AI di Sekolah Tapi...,Teknologi,Teknologi,Pendidikan
+D03461,detik,"Pidato Kenegaraan, Presiden Kazakhstan Umumkan Bentuk Kementerian soal AI",Nasional,Ekonomi,Nasional
+D03624,detik,Prompt Gemini AI Foto Studio Terbaru untuk Cowok-Cewek Lengkap Caranya,Nasional,Nasional,Nasional
+D02181,detik,"Dewan Pers: AI Permudah Kerja Jurnalistik, Bukan Gantikan Tugas Manusia",Nasional,Nasional,Nasional
+D05624,liputan6,Apple Gugat OpenAI soal Dugaan Curi Rahasia Perusahaan,Teknologi,Teknologi,Teknologi
+D00498,detik,"Chatbot AI Digugat 'Mencuri' Konten, Ini Tanggapan Google",Teknologi,Teknologi,Teknologi
+D04350,liputan6,"Google Uji Fitur Anotasi di Gemini, Pengguna Bisa Edit Gambar AI Jadi Lebih Presisi",Teknologi,Teknologi,Teknologi
+D05829,cnn,Eka Hospital Hadirkan MCU Mobile Berbasis AI di GIIAS 2026,Hiburan,Nasional,Hiburan
+D00992,detik,Saham Nvidia-AMD Terbang Tinggi Gegara AI,Ekonomi,Ekonomi,Ekonomi
+D02259,detik,LinkedIn Pakai Fitur Baru Agar Pelamar Kerja Cepat Dilirik Perusahaan,Ekonomi,Teknologi,Teknologi
+D05108,detik,Keren! Menlu Singapura Coding AI Sendiri Buat Bantu Tugas Diplomasi,Teknologi,Pendidikan,Nasional
+D04620,detik,Cocok untuk Pelaku Usaha! Kelola Data Bisnis jadi Mudah dengan Bantuan AI,Pendidikan,Pendidikan,Pendidikan
+D00694,cnn,"Waspada Video Hoaks Pilpres 2024, Simak Cara Ceknya",Teknologi,Teknologi,Teknologi
+D02826,detik,"Pakar BRIN: AI Tak Bisa Gantikan Peran Guru, Bantu Tugas Administratif Bisa",Pendidikan,Pendidikan,Pendidikan
+D01900,detik,Jurus Indosat Agar AI Bisa Dinikmati Semua Orang,Teknologi,Teknologi,Teknologi
+D00962,liputan6,Microsoft Disebut Bakal Hadirkan Fitur AI di Notepad Windows 11,Teknologi,Teknologi,Teknologi
+D04859,detik,Kemendiktisaintek: SKB 7 Menteri soal Pedoman AI Bisa Diakses 1-2 Hari Lagi,Pendidikan,Nasional,Nasional
+D00920,detik,"7 Jenis AI Paling Banyak Dicari, Chat GPT Kalahkan AI Google",Teknologi,Pendidikan,Teknologi
+D02629,detik,"Dukung SPMB 2025 di Jatim, ITS Siapkan Platform Ini untuk Pendaftar Sekolah",Pendidikan,Nasional,Nasional
+D02444,detik,AI Bakal Masuk Kurikulum Belajar Siswa SD-SMP di China,Nasional,Teknologi,Pendidikan
+D02589,detik,Instagram Pakai AI untuk Amankan Akun Pengguna Remaja,Teknologi,Teknologi,Teknologi
+D00303,liputan6,"Google Bakal Bawa Chatbot AI Bard ke HP Pixel, Hadir Eksklusif Jadi Widget",Teknologi,Teknologi,Teknologi
+D02266,detik,"Khawatir Kebocoran Data, Italia hingga Taiwan Blokir DeepSeek",Nasional,Teknologi,Teknologi
+D06181,liputan6,Emiten IRSX Memperluas Bisnis ke Ekosistem Media Commerce,Ekonomi,Hiburan,Ekonomi
+D04136,detik,Harga Chip Memori Samsung Meroket Gara-gara AI,Teknologi,Teknologi,Teknologi
+D03506,liputan6,"8 Prompt Gemini AI Edit Foto K-Pop Idol Backstage Jadi Nyata, Wujudkan Momen Impian",Hiburan,Hiburan,Hiburan
+D05655,detik,"Binus University Buka Beasiswa 100% untuk Calon Maba, Ada Prodi AI",Pendidikan,Teknologi,Pendidikan
+D01941,detik,"Pakar: Mapel AI di Sekolah Penting untuk Adaptasi Siswa, tapi Ini Tantangannya",Pendidikan,Pendidikan,Pendidikan
+D02082,cnn,"Sudah Bisa di X, Begini Cara Membuat Gambar dengan Grok AI",Teknologi,Nasional,Teknologi
+D02122,detik,Tutorial Memakai Meta AI demi Menunjang Kreativitas di Media Sosial,Nasional,Teknologi,Nasional
+D05449,detik,"ETLE Drone Patrol Presisi Mengudara di MT Haryono, Dukung Rekayasa Lalin Berbasis AI",Nasional,Ekonomi,Nasional
+D00606,detik,"Marak Pornografi Pakai AI, Aturan Konten Seksual Diperketat",Teknologi,Ekonomi,Nasional
+D03542,detik,10 Prompt Gemini AI Seniman Patung yang Keren dan Realistis,Nasional,Hiburan,Hiburan
+D00372,cnn,Browser Opera Luncurkan Fitur AI Bertenaga ChatGPT,Teknologi,Teknologi,Teknologi
+D00903,detik,"Rilis 2024, AI Samsung Bisa Terjemahkan Panggilan Telepon Realtime",Teknologi,Teknologi,Teknologi
+D01779,detik,"Pengembang ChatGPT Ketemu Menkominfo Hari Ini, Bahas Apa?",Teknologi,Ekonomi,Teknologi
+D06339,detik,WhatsApp Jajal Tampilan Baru di Android: Demi Meta AI,Teknologi,Teknologi,Teknologi
+D05112,detik,Pelatihan AI Tanpa Coding untuk Profesional! Solusi Cerdas Tingkatkan Produktivitas,Pendidikan,Teknologi,Pendidikan
+D05167,cnn,The Devil Wears Prada 2 Kecoh Penonton Lewat Gambar ala AI,Hiburan,Hiburan,Hiburan
+D06408,detik,"Meta Muse Tembus 5 Juta Download dalam 3 Minggu, Kalahkan ChatGPT",Teknologi,Teknologi,Teknologi
+D05910,detik,Kelas dari Ini Bantu Peserta Optimalkan Lead Marketing,Pendidikan,Pendidikan,Pendidikan
+D03930,liputan6,Penambang Bitcoin Kini Ikut Garap Layanan AI,Ekonomi,Teknologi,Ekonomi
+D06269,detik,"Guru Jangan Takut Tergantikan AI, Kecerdasan Buatan Bisa Jadi Asisten",Nasional,Pendidikan,Nasional
+D05893,liputan6,"Perang Siber Ancam Kedaulatan Nasional, Wamendiktisaintek Imbau Setiap Individu Jaga Data",Teknologi,Pendidikan,Teknologi
+D06144,detik,Purbaya Kebut Sistem Deteksi Pajak Ekspor-Impor Pakai AI,Ekonomi,Ekonomi,Ekonomi
+D04815,detik,Matematikawan Dunia Buktikan AI Belum Mampu Pecahkan Soal Penelitian Konkret,Pendidikan,Pendidikan,Pendidikan
+D05687,detik,Bos SoftBank Rela Bakar Rp 89 Ribu Triliun Tiap Tahun Demi AI,Teknologi,Teknologi,Teknologi
+D00770,detik,ChatGPT Kini Punya 100 Juta Pengguna Aktif Mingguan,Teknologi,Teknologi,Teknologi
+D02439,liputan6,Benarkah AI Bisa Bantu Capai Pertumbuhan Ekonomi Indonesia 8 Persen? Ini Kata Ekonom dan N...,Teknologi,Teknologi,Ekonomi
+D06358,detik,"Deretan Orang Terkuat di Jagat AI Kumpul Bareng Trump, Ini Hasilnya",Teknologi,Teknologi,Teknologi
+D04274,detik,"Elon Musk: Di Masa Depan Kerja Bukan Kewajiban, Hanya Pilihan",Nasional,Teknologi,Teknologi
+D05391,liputan6,Dirut BRI Hery Gunardi: Adopsi AI Jadi Kunci Bank Bertahan di Era Digital,Ekonomi,Ekonomi,Ekonomi
+D01224,detik,"Pertama Kalinya Kontes Kecantikan Khusus Wanita AI Digelar, Apa Kriterianya?",Hiburan,Hiburan,Hiburan
+D03391,detik,Viral Miniatur AI: Ini 5+ Prompt Siap Pakai dan Cara Membuatnya di Gemini AI,Nasional,Nasional,Nasional
+D05932,detik,"Hadapi Era AI, ITB Tanamkan Nilai AIR ke Mahasiswa Baru",Nasional,Pendidikan,Nasional
+D04174,cnn,Pupuk Indonesia Percepat Transformasi Digital Dukung Ketahanan Pangan,Ekonomi,Ekonomi,Ekonomi
+D05588,detik,"HP Lebih Aman, Ini Cara Aktifkan Fitur Anti Maling di Android dan iPhone",Nasional,Teknologi,Nasional
+D01916,detik,Saat Manusia Rp 2.000 Triliun Makan Gultik di Trotoar Blok M,Ekonomi,Ekonomi,Teknologi
+D01856,liputan6,"OpenAI Tantang Google dengan ChatGPT Search, Mesin Pencari Baru Berbasis AI",Teknologi,Teknologi,Teknologi
+D03381,detik,Sisi Gelap Orang yang Jalin 'Hubungan Asmara' dengan AI,Teknologi,Teknologi,Teknologi
+D00261,liputan6,ChatGPT Bisa Diakses Lagi di Italia Usai Sempat Dilarang,Teknologi,Teknologi,Teknologi
+D02213,liputan6,"Chatbot DeepSeek AI Nomor Satu di Toko Aplikasi App Store, Bos OpenAI Beri Pujian",Teknologi,Teknologi,Teknologi
+D02019,detik,"Gegara AI, Bring Me The Horizon Kena Hujat",Hiburan,Hiburan,Hiburan
+D05603,cnn,"Microsoft PHK Massal 4.800 Karyawan, Rombak Besar Divisi Gim Xbox",Ekonomi,Ekonomi,Ekonomi
+D00506,detik,"Lampu Merah Dipasang Teknologi AI, Jadi Bisa Apa Aja?",Ekonomi,Nasional,Ekonomi
+D05209,detik,AI dan Aksesibilitas Jadi Sorotan Swift Student Challenge 2026,Teknologi,Teknologi,Teknologi
+D06486,liputan6,Komdigi Dorong Perlindungan Hak Cipta Jurnalistik Sejalan dengan Inovasi AI,Nasional,Ekonomi,Nasional
+D02305,detik,"Ramai Larang Pakai DeepSeek AI, Komdigi Ungkap Sikap Pemerintah RI Terkini",Teknologi,Teknologi,Teknologi
+D00346,detik,Pakar UI soal Fenomena ChatGPT: Indonesia Perlu Etika & Regulasi soal AI,Pendidikan,Teknologi,Pendidikan
+D03808,detik,2 Jam Saja! Kamu Bisa Ubah Tulisan Kreatif dengan Bantuan AI Jadi Sumber Cuan,Pendidikan,Pendidikan,Pendidikan
+D01044,detik,Zenbook 14 OLED Jadi Laptop AI Pertama Asus di Indonesia,Teknologi,Teknologi,Teknologi
+D00710,cnn,Microsoft Ingatkan Potensi Bahaya AI di Pemilu Indonesia,Teknologi,Teknologi,Teknologi
+D02277,liputan6,Warganet Laporkan ChatGPT Down di X,Teknologi,Teknologi,Teknologi
+D03003,detik,"Program AI Dipakai Deteksi Kebohongan, Akurat atau Menyesatkan?",Teknologi,Teknologi,Teknologi
+D01973,detik,Kecerdasan Buatan di Industri Musik: Ancaman atau Anugerah bagi Musisi?,Pendidikan,Hiburan,Pendidikan
+D04452,detik,"Menengok Perjalanan TV Samsung, dari Bentuk Tabung hingga Serba AI",Teknologi,Teknologi,Teknologi
+D04173,detik,"Berlebihan, Grok Sebut Elon Musk Lebih Cerdas dari Einstein",Teknologi,Teknologi,Teknologi
+D04734,detik,Orang Dalam Klaim Sineas Hollywood Diam-Diam Sering Pakai AI,Teknologi,Hiburan,Hiburan
+D02380,liputan6,"iPhone 15 Pro bakal Kebagian Fitur Visual Intelligence, Mirip Google Lens!",Teknologi,Teknologi,Teknologi
+D04788,detik,Kata Ini Haram Dipakai di Kalangan Karyawan Microsoft,Teknologi,Teknologi,Teknologi
+D00774,detik,Kepala Bappenas Ungkap 3 Manfaat Big Data dan AI buat Ekonomi,Ekonomi,Ekonomi,Ekonomi
+D05225,detik,Pertemuan Trump dan Xi Jinping Diprediksi Tak Bahas Perang Dagang,Ekonomi,Ekonomi,Ekonomi
+D02492,detik,"Sekolah di AS Rancang Kurikulum yang Padukan Keahlian Bengkel dengan Teknologi, Imbas AI?",Pendidikan,Pendidikan,Pendidikan
+D06690,cnn,BGN Targetkan 10 Ribu Dapur Layani MBG Prasmanan dan Diawasi CCTV AI,Ekonomi,Ekonomi,Ekonomi
+D00489,detik,OECD Sebut 27% Pekerja Terancam Digantikan Oleh AI,Ekonomi,Ekonomi,Ekonomi
+D05543,detik,"AI Bikin Resah, Kim Woo Bin Komentari Foto Nikahnya yang Viral di IG",Hiburan,Hiburan,Hiburan
+D00336,detik,49% Karyawan Microsoft Khawatir AI Ambil Alih Pekerjaan,Teknologi,Teknologi,Teknologi
+D01234,liputan6,"Google Perkenalkan Gemini Code Assist, Bantu Developer Ngoding Lebih Efektif dengan AI",Teknologi,Teknologi,Teknologi
+D02415,liputan6,"Konten Kreator Paskoboy Bikin Video AI Lionel Messi, Putin, hingga Dr Strange Ikut War Tak...",Hiburan,Hiburan,Nasional
+D01246,detik,"Deepfake Bikin Orang Tertipu Rp 392 M, Jangan Mudah Percaya!",Teknologi,Teknologi,Teknologi
+D04307,detik,"Disney Investasi Rp 16,6 Triliun di OpenAI",Ekonomi,Teknologi,Ekonomi
+D05486,cnn,Pentagon Disebut Pakai AI Milik Elon Musk Tembak 2.000 Misil ke Iran,Teknologi,Teknologi,Teknologi
+D01694,detik,"Intelijen Amerika dan Inggris Sudah Pakai AI, Ini Tujuannya",Teknologi,Teknologi,Teknologi
+D03048,liputan6,Elon Musk Perkenalkan AI Companions Bergaya Anime di Grok,Teknologi,Teknologi,Teknologi
+D04727,detik,Ahli Ingatkan Bahaya Andalkan AI Buat Bikin Password,Teknologi,Teknologi,Teknologi
+D02228,detik,UEA Ingin Investasi Bidang AI hingga Geotermal di Indonesia,Nasional,Ekonomi,Ekonomi
+D03446,detik,Wamenkomdigi Desak Platform Digital Sediakan Fitur Deteksi Konten AI,Teknologi,Teknologi,Teknologi
+D02007,detik,Apa Itu Meta AI WhatsApp dan Gunanya untuk Belajar-Mengajar? Ayo Kenali Lebih Dulu,Pendidikan,Teknologi,Pendidikan
+D00556,detik,Viral Wanita Pergoki Pacar Selingkuh Lewat AI,Hiburan,Hiburan,Hiburan
+D00564,detik,Pengguna WhatsApp Bakal Bisa Bikin dan Kirim Stiker Buatan AI,Teknologi,Teknologi,Teknologi
+D02168,detik,Korban-korban Deepfake Catut Prabowo Setor Duit Segini!,Nasional,Nasional,Nasional
+D04262,cnn,Laporan Standard Chartered: Digital Fondasi Utama Korporasi Global,Ekonomi,Ekonomi,Ekonomi
+D02628,detik,Mengubah Masa Depan Pendidikan Berbasis AI dan Neurosains,Teknologi,Pendidikan,Pendidikan
+D00736,detik,"Kominfo Minta Waspadai Hoax Editan AI, Contohkan Video Jokowi Bicara Mandarin",Nasional,Nasional,Teknologi
+D03058,detik,Ratusan Universitas di China Tutup Jurusan Bahasa Asing: Kalah dengan AI,Pendidikan,Pendidikan,Pendidikan
+D01040,detik,AI Jadi Ancaman #PemiluDamai2024,Nasional,Nasional,Nasional
+D01569,cnn,Universitas Indonesia Telusuri Viral Pendaftar Lolos Simak UI Pakai AI,Nasional,Pendidikan,Pendidikan
+D04798,liputan6,Sinar Mas dan iFLYTEK Bentuk Perusahaan AI di Indonesia,Ekonomi,Ekonomi,Ekonomi
+D00573,cnn,Jokowi Soroti Chat GPT dan AI di Depan Anak-anak Muda di Medan,Nasional,Nasional,Nasional
+D03888,detik,Fakta Sejauh Ini Kasus Chiko Tukang Edit Foto Cabul Pakai AI,Nasional,Nasional,Nasional
+D00867,liputan6,"Gemini Dirilis, AI Milik Google Diklaim Jadi Saingan Kuat ChatGPT",Nasional,Teknologi,Teknologi
+D03248,detik,Geger Video Jessica Radcliffe Tewas Diserang Paus Orca Ternyata Buatan AI,Nasional,Nasional,Nasional
+D06212,cnn,"Eropa Bakal Larang Anak Pakai Sosmed dan AI, Ini Alasannya",Teknologi,Teknologi,Teknologi
+D00012,detik,"5 Jenis Pekerjaan yang Tak Bisa Digantikan Robot dan AI, Mahasiswa Sudah Tahu?",Pendidikan,Pendidikan,Pendidikan
+D06323,detik,"Kota Bertenaga AI Senilai Rp 17,9 Triliun Sedang Dibangun",Teknologi,Teknologi,Teknologi
+D00086,liputan6,"Keanu Reeves Tak Suka Ada Air Mata Editan di Filmnya, Bikin Klausul untuk Menolak Digitali...",Hiburan,Hiburan,Hiburan
+D01586,cnn,"Elon Musk 'Ngetroll' Tokoh Dunia Pakai AI, Jokowi Sebut Peluang",Teknologi,Teknologi,Nasional
+D03469,liputan6,"Bukan Robot Trading, Begini Peran Gemini AI di Dunia Kripto",Ekonomi,Ekonomi,Ekonomi
+D00963,detik,"Ada AI hingga Hoax, Ini Daftar Ancaman Paling Berbahaya 10 Tahun ke Depan",Ekonomi,Teknologi,Teknologi
+D02976,detik,"Mau Tambah Pelanggan Bisnis, Telkom Gencar Pakai Solusi Berbasis AI",Teknologi,Teknologi,Teknologi
+D06106,cnn,Ilmuwan Ungkap Cara Deteksi Konten AI Slop di di Media Sosial,Teknologi,Teknologi,Teknologi
+D04756,detik,Dian Sastrowardoyo Dukung Pemilik Warung Lewat Iklan AI,Hiburan,Hiburan,Nasional
+D01918,detik,"Kursus Coding Gratis IDCamp 2024, Ada Kelas Data Science sampai AI",Pendidikan,Pendidikan,Pendidikan
+D06578,detik,"Pelajari Pertanian Berbasis AI di Chongqing, Mentrans Ajak Investasi di RI",Nasional,Ekonomi,Ekonomi
+D05929,detik,"AI Mulai Jadi Hacker, Bapak AI Khawatir Lepas Kendali",Teknologi,Teknologi,Teknologi
+D05076,detik,Harga Flashdisk dan Kartu Memori Meroket Akibat Tren AI,Teknologi,Teknologi,Teknologi
+D01485,detik,2 Jurus Perusahaan RI Biar Nggak Kalah Saing di Pasar Global,Ekonomi,Teknologi,Ekonomi
+D03371,detik,Bollywood Nyoba Duluan Bikin Film Pakai AI,Hiburan,Hiburan,Hiburan
+D06564,detik,"ChatGPT Dituding Bahayakan Anak-anak, OpenAI Digugat",Teknologi,Teknologi,Teknologi
+D06092,detik,Cerita 3 Desainer Lokal Berkarya Pakai AI Tanpa Kehilangan Sentuhan Manusia,Teknologi,Teknologi,Hiburan
+D02162,detik,"Pelaku Deepfake Catut Prabowo Minta Korban Transfer, Iming-iming Bansos Cair",Nasional,Nasional,Nasional
+D05454,detik,"Anker Rilis Soundcore Liberty 5 Pro di RI, Punya AI untuk Meeting",Teknologi,Teknologi,Teknologi
+D05360,detik,Orang Indonesia Pakai AI Paling Sering Buat Apa?,Nasional,Pendidikan,Teknologi
+D03459,liputan6,"Cara Buat Foto Profesional dengan AI di Google Gemini, Cuma Modal HP dan Foto Selfie",Hiburan,Hiburan,Hiburan
+D02715,liputan6,"Perplexity AI Kini Hadir di WhatsApp: Akses Makin Mudah, Tanpa Perlu Login",Teknologi,Teknologi,Teknologi
+D00171,detik,Nvidia Mau Pamer Teknologi AI Baru,Teknologi,Teknologi,Teknologi
+D03253,detik,"Agar AI Tak Memberontak, Pakar Saran Kasih Naluri Keibuan",Teknologi,Teknologi,Teknologi
+D06050,detik,Luhut Sebut Data di Desil Bakal Diperbaiki Pakai AI,Nasional,Ekonomi,Ekonomi
+D04720,detik,"Para Orang Terkuat di Jagat AI Kumpul di India, Ada Apa?",Teknologi,Teknologi,Teknologi
+D00250,detik,Uni Eropa Siapkan Regulasi untuk Kendalikan AI,Teknologi,Teknologi,Teknologi
+D06463,detik,"Visual AI ChatGPT Bisa Salah, Begini Cara OpenAI Jaga Akurasinya",Teknologi,Teknologi,Teknologi
+D04827,detik,"Besok, Freya JKT48 Diperiksa Polisi soal Laporan Terkait Foto AI",Nasional,Hiburan,Nasional
+D03019,cnn,Transjakarta Adopsi AI Optimalkan Layanan dan Genjot Jumlah Pelanggan,Nasional,Ekonomi,Nasional
+D00164,detik,Dirut Perusahaan Ini Bukan Manusia Tapi Kecerdasan Buatan,Teknologi,Hiburan,Ekonomi
+D05542,liputan6,"Claude Mythos 5 Kembali Dibuka, Ada Syarat Ketat dari Pemerintah AS",Teknologi,Teknologi,Teknologi
+D06679,detik,"Bisnis Telekomunikasi Masih Menjanjikan, Pendapatan ISAT Tumbuh Dua Digit",Nasional,Ekonomi,Ekonomi
+D02199,liputan6,Donald Trump: DeepSeek AI Asal China Bukti Teknologi AS Harus Berbenah,Teknologi,Teknologi,Teknologi
+D05434,cnn,"Daftar Lengkap Fitur iOS 27, Siri AI hingga Keamanan",Teknologi,Teknologi,Teknologi
+D04351,detik,Kesepakatan Disney dan Pembuat ChatGPT Cemaskan Pekerja Seni,Teknologi,Teknologi,Teknologi
+D05427,liputan6,Luhut Sebut Semua BUMN Bakal Dipantau Pakai Sistem AI,Ekonomi,Ekonomi,Ekonomi
+D04104,detik,"Gen AI di Smartphone Melejit, 2028 HP Rp 1 Jutaan Sudah Punya Fitur AI",Teknologi,Teknologi,Teknologi
+D03671,detik,Galaxy S25 FE Jadi Andalan Samsung Incar Gen Z di Indonesia,Teknologi,Teknologi,Teknologi
+D01215,cnn,"Spotify Luncurkan Fitur AI, Bisa Bikin Playlist Cuma dengan Kalimat",Hiburan,Teknologi,Teknologi
+D01691,detik,Upaya Presiden Korea Selatan Tangani Wabah Pornografi Deepfake,Nasional,Teknologi,Teknologi
+D03258,detik,"Pria 75 Tahun Ingin Ceraikan Istri Demi 'Pacar' AI, Begini Ending-nya",Hiburan,Hiburan,Hiburan
+D02908,detik,Telkomsel Perluas Jaringan 5G di Batam Didukung Teknologi AI,Teknologi,Teknologi,Teknologi
+D04934,liputan6,Miliarder Ini Prediksi Sistem Kerja 40 Jam akan Lenyap karena AI,Ekonomi,Ekonomi,Ekonomi
+D04890,detik,Polisi Pamerkan Rekaman CCTV Wajah Penyiram Air Keras Aktivis KontraS,Nasional,Nasional,Nasional
+D00807,liputan6,"Sam Altman Jadi Kepala Tim Riset AI Microsoft, Setelah Dipecat dari OpenAI",Teknologi,Teknologi,Teknologi
+D00921,detik,"Apa itu AI (Artificial Intelligence): Pengertian, Kelebihan dan Kekurangan",Teknologi,Pendidikan,Pendidikan
+D02183,detik,"Menkomdigi Paparkan Kerja Sama Digital dengan India, IoT Hingga AI",Nasional,Teknologi,Teknologi
+D02895,detik,Zuckerberg Resmi Rekrut Pemuda Ajaib Berharta Rp 58 Triliun,Teknologi,Teknologi,Teknologi
+D00082,detik,"Ditanya Tanggal, ChatGPT Malah Adu Bacot dengan Pengguna",Teknologi,Teknologi,Teknologi
+D03473,detik,F5 Gandeng Equinix untuk Akselerasi Pengembangan Infrastruktur AI,Teknologi,Teknologi,Teknologi
+D01259,detik,Google Bikin Model AI yang Dapat Prediksi Bencana Alam di Masa Depan,Teknologi,Teknologi,Pendidikan
+D06431,detik,"Nurut Donald Trump, Elon Musk Ngaku Bakal Ganti 'SpaceXAI' jadi 'SpaceXSI'",Teknologi,Nasional,Teknologi
+D04752,detik,"Puspresnas Perketat Pengawasan OSN 2026, KawalOSN: Jangan Tergoda Pakai AI",Pendidikan,Pendidikan,Pendidikan
+D00189,detik,"Deepfake Paus Fransiskus Pakai Balenciaga, Jutaan Orang Nyaris Ketipu",Teknologi,Teknologi,Nasional
+D01778,detik,WNA di Lampung Kini Diawasi Aplikasi Berbasis AI,Nasional,Ekonomi,Nasional
+D00719,detik,"Canggih, AI Berhasil Temukan Supernova Tanpa Bantuan Manusia",Pendidikan,Pendidikan,Pendidikan
+D06411,cnn,"Manut Trump Soal Nama AI, Elon Musk Bakal Ganti SpaceXAI Jadi SpaceXSI",Teknologi,Teknologi,Teknologi
+D03886,detik,"Pengembangan AI Super Makin Mengerikan, Diminta Dihentikan",Teknologi,Teknologi,Teknologi
+D03630,liputan6,"7 Contoh Prompt Gemini AI Edit Foto Maternity Shoot, dari Efek Dreamy hingga Sinematik",Hiburan,Hiburan,Hiburan
+D04260,detik,"Beda dengan CGI, James Cameron Lihat AI Jadi Ancaman: Ngeri!",Hiburan,Hiburan,Hiburan
+D02744,detik,"10 Pekerjaan yang Tidak Bisa Digantikan AI, Ada Karier Impianmu?",Pendidikan,Pendidikan,Pendidikan
+D04434,detik,Nvidia Kebanjiran Pesanan Chip AI dari China: Tembus 2 Juta Chip,Teknologi,Teknologi,Teknologi
+D02760,detik,Wanita Ini Minta Cerai ke Suaminya gegara Percaya Ramalan ChatGPT,Nasional,Hiburan,Hiburan
+D04947,detik,"Heboh Video AI Ubah Wajah Jadi Petugas Bank, BCA Buka Suara",Ekonomi,Ekonomi,Ekonomi
+D05556,liputan6,OpenAI Rekrut Bos Apple Vision Pro untuk Pimpin Proyek Hardware AI,Teknologi,Teknologi,Teknologi
+D01089,cnn,"OpenAI Pamer Sora, Kecerdasan Buatan Kreator Video Realis Banget",Teknologi,Teknologi,Teknologi
+D03343,liputan6,"Siri Generasi Baru Akan Terhubung ke WhatsApp, YouTube, hingga Threads",Teknologi,Teknologi,Teknologi
+D06399,cnn,Thailand Kini Gunakan AI untuk Meningkatkan Kualitas Durian,Teknologi,Teknologi,Teknologi
+D04861,detik,Angga Dwimas Sasongko Soal AI: Alat Produktivitas Bukan Kreativitas,Teknologi,Teknologi,Teknologi
+D00824,cnn,Surat Soal Proyek AI Super Jadi Alasan di Balik Pemecatan Sam Altman?,Teknologi,Teknologi,Teknologi
+D04474,detik,"ChatGPT Health Resmi Meluncur di Indonesia, Ini Fitur & Cara Aksesnya",Teknologi,Teknologi,Teknologi
+D01409,cnn,"Ramalan Pakar Soal Ancaman Siber 2024, AI Dominan",Teknologi,Teknologi,Teknologi
+D02780,detik,Perusahaan AI Whale Raih Pendanaan US$ 60 Juta,Ekonomi,Ekonomi,Ekonomi
+D03699,liputan6,Kumpulan Prompt Gemini AI Edit Foto Keluarga Seperti di Studio: Rahasia Foto Keluarga Prof...,Hiburan,Hiburan,Hiburan
+D03488,liputan6,TOP 3: Prompt AI Edit Foto di Lift Pakai Jas hingga Desain Rumah Tropis dengan Pekarangan...,Hiburan,Hiburan,Hiburan
+D05087,detik,Prompt ChatGPT Images 2.0 untuk Jualan hingga Mengajar,Teknologi,Teknologi,Teknologi
+D05838,detik,"Terobosan BPA Kejagung, Kini Punya Sistem AI Awasi Proses Pemulihan Aset",Nasional,Ekonomi,Nasional
+D06700,detik,"Sindikat Curi Perangkat AI Rp 1,8 Triliun, Modus Bak Film Hollywood",Teknologi,Teknologi,Teknologi
+D01108,detik,"Asyik, Galaxy AI Hadir di HP Samsung Lain Mulai Bulan Depan",Teknologi,Teknologi,Teknologi
+D06079,cnn,"Resmi Jadi CEO Apple, John Ternus Hadapi Tantangan Berat Soal AI",Teknologi,Ekonomi,Teknologi
+D01889,detik,"AI Dipredikasi Hasilkan Jutaan Ton Sampah Elektronik, Ilmuwan Beri Peringatan",Pendidikan,Pendidikan,Pendidikan
+D05159,detik,3 Tantangan Fresh Graduate di Era AI dan Cara Mengatasinya,Teknologi,Ekonomi,Nasional
+D01817,detik,Ericsson Ingin AI Jadi Pengetahuan Dasar di Indonesia,Teknologi,Teknologi,Teknologi
+D00216,detik,Kecerdasan Buatan Ancam Pekerjaan Manusia? Ini Kata Bos Google,Teknologi,Teknologi,Teknologi
+D06676,cnn,"Rilis di Bioskop, Film AI Pertama China Sanxingdui Jeblok",Hiburan,Hiburan,Hiburan
+D03169,detik,"Microsoft Ungkap 40 Pekerjaan yang Bisa Digantikan oleh AI, Apa Saja?",Teknologi,Teknologi,Teknologi
+D03263,cnn,Lansia di China Ingin Ceraikan Istrinya karena Naksir Cewek AI,Hiburan,Teknologi,Hiburan
+D03636,detik,Prompt Gemini AI Keren yang Terbaru: Foto Studio hingga Bertemu Masa Kecil,Nasional,Hiburan,Nasional
+D02705,detik,"Bikin Proposal PKM 2025 Boleh Pakai AI, Tapi...",Pendidikan,Pendidikan,Pendidikan
+D04907,liputan6,"Lawan Arus Efisiensi, OpenAI akan Rekrut 8.000 Karyawan pada 2026",Teknologi,Ekonomi,Ekonomi
+D02180,detik,Dewan Pers Luncurkan Pedoman Resmi Penggunaan AI dalam Karya Jurnalistik,Nasional,Pendidikan,Nasional
+D00915,liputan6,"Apple Ingin Gandeng Penerbit Berita untuk Latih AI Generatif, Siap Bayar Rp 772 Miliar",Teknologi,Teknologi,Teknologi
+D01156,detik,Bamsoet Puji Inovasi Mesin Pemilah Sampah Berteknologi AI Karya Komib,Nasional,Ekonomi,Nasional
+D06316,detik,"Raksasa AI Ekspansi Besar-besaran di Singapura, Sewa Kantor Meroket",Teknologi,Ekonomi,Ekonomi
+D05320,detik,Lestari Moerdijat Dorong Literasi AI Inklusif bagi Penyandang Disabilitas,Nasional,Nasional,Nasional
+D05123,detik,"Mimpi Buruk Meta, Akuisisi Startup AI Manus Dijegal China",Teknologi,Ekonomi,Teknologi
+D02100,detik,Hati-hati! Email Phishing Makin Canggih dan Berbahaya Berkat AI,Teknologi,Teknologi,Teknologi
+D05125,detik,"Peneliti MIT Ajarkan AI Berani Bilang ""Nggak Tahu"" Biar Nggak Halu",Pendidikan,Teknologi,Teknologi
+D00001,detik,"Urai Macet, DKI Pakai Teknologi Google untuk Atur Durasi Lampu Hijau Nyala",Nasional,Nasional,Nasional
+D00549,liputan6,Indonesia Negara Paling Optimis Adopsi Teknologi AI,Ekonomi,Ekonomi,Teknologi
+D06462,detik,Petinggi Zoom Sebut Era Baru AI Bukan Lagi Kasih Jawaban,Teknologi,Ekonomi,Teknologi
+D03971,detik,AI di Galaxy Z Series Jadi Partner Cerdas Ciptakan Cuan,Teknologi,Hiburan,Teknologi
+D04306,cnn,"Purbaya soal Ancaman ke Bea Cukai: Mereka Pintar, Cuma Perlu Digebuk",Ekonomi,Ekonomi,Ekonomi
+D05832,cnn,"Latih Sistem Pertahanan, China Manfaatkan Model AI Amerika",Teknologi,Teknologi,Teknologi
+D03883,detik,"Difoto Diam-diam, Teman Kuliah Juga Jadi Korban Edit AI Cabul Chiko",Nasional,Nasional,Nasional
+D06189,detik,Prodi Teknik Industri UMI Hadirkan Pakar UII Bahas Supply Chain Management,Nasional,Pendidikan,Nasional
+D00668,detik,Saat OSINT dan Teknologi AI Menjamah Dunia Jurnalistik,Nasional,Nasional,Nasional
+D05268,detik,Seth Rogen Sentil Penulis Skrip yang Pakai AI,Hiburan,Hiburan,Hiburan
+D02446,detik,AI Bisa Jadi Penggerak Mesin Pertumbuhan Ekonomi RI,Teknologi,Ekonomi,Ekonomi
+D05699,detik,"Bareng China, RI Jadi Pendiri Organisasi AI Dunia",Ekonomi,Ekonomi,Ekonomi
+D05066,detik,"Wah, RTX 5090 Bisa Dipasangkan ke Mac",Teknologi,Teknologi,Teknologi
+D04552,detik,Elon Musk Tuntut Ganti Rugi Rp 2.100 T dari OpenAI dan Microsoft,Ekonomi,Teknologi,Ekonomi
+D01528,liputan6,"Oppo Reno 12 Series Hadirkan AI Generatif untuk Semua Kalangan, Apa Saja Fiturnya?",Teknologi,Teknologi,Teknologi
+D03458,liputan6,"Prompt Gemini AI untuk Edit Foto Liburan, Panduan Lengkap agar Estetik",Hiburan,Hiburan,Hiburan
+D02406,detik,Upaya PPI Turki Tingkatkan Kesejahteraan Pelajar: Buka Kelas-Call Center Berbasis AI,Pendidikan,Pendidikan,Pendidikan
+D05564,liputan6,Benarkah AI Bisa Bikin Tambang Indonesia Lebih Hijau dan Minim Risiko?,Teknologi,Ekonomi,Ekonomi
+D02215,detik,Apa Itu DeepSeek AI yang Trending di Internet? Ini Penjelasan Lengkapnya,Nasional,Teknologi,Nasional
+D02656,detik,"3 Pelaku Penipuan Deepfake Khofifah Ditangkap, Korban 100 Orang",Nasional,Nasional,Nasional
+D00333,detik,"Aplikasi ChatGPT Kini Tersedia untuk iOS, Android Menyusul",Teknologi,Teknologi,Teknologi
+D05205,liputan6,Nvidia Gandeng IREN Bangun Infrastruktur AI 5 Gigawatt,Ekonomi,Teknologi,Ekonomi
+D00718,detik,China Mencak-mencak AS Larang Ekspor Chip AI,Teknologi,Teknologi,Teknologi
+D01200,detik,AS & Inggris Kerjasama Uji Model AI yang Ancam Keselamatan,Teknologi,Teknologi,Teknologi
+D00933,liputan6,"7 Potret IKN Sebelum Dibangun vs 1000 Tahun Kemudian dengan AI, Netizen: di Luar Galaks...",Hiburan,Nasional,Hiburan
+D02454,detik,Emiten Ini Luncurkan Teknologi Smart Retail AI untuk Sektor FnB,Ekonomi,Ekonomi,Ekonomi
+D00232,cnn,Dirjen Aptika Kominfo Pamer Pidato Pakai AI,Teknologi,Teknologi,Teknologi
+D03260,detik,Bujet Produksi Film AI Diponegoro Hero Sampai Rp 200 Juta,Hiburan,Hiburan,Pendidikan
+D00440,detik,Mahasiswa RI di Stanford-Berkeley AS Bikin Startup AI Belajar Bahasa Inggris,Pendidikan,Pendidikan,Pendidikan
+D00624,detik,"Jokowi: Jangan Takut dengan AI, Ciptaan Allah Akan Selalu Lebih Unggul",Nasional,Nasional,Nasional
+D04940,detik,"Kisah Nenek Ida, Tolak Tawaran Rp 441 Miliar Demi Jaga Lahan Pertanian",Nasional,Ekonomi,Teknologi
+D01767,detik,"Microsoft Rombak Copilot, Tambah Fitur dan Makin Pintar",Teknologi,Teknologi,Teknologi
+D00187,detik,"Vogue Tampilkan Model AI di Sampul Majalah, Posisi Model Manusia Terancam?",Hiburan,Hiburan,Hiburan
+D05816,liputan6,"Google Earth Kini Dilengkapi Nano Banana 2, Apa Fungsinya?",Teknologi,Teknologi,Teknologi
+D02477,detik,Modus Pria Tangerang Pasarkan Video Porno AI Wanita Gresik di Medsos,Nasional,Nasional,Nasional
+D04556,detik,Data Center Masa Depan Bakal Makin Mungil,Teknologi,Teknologi,Teknologi
+D05933,detik,Adopsi AI Voice Agent Dijanjikan Tingkatkan Efisiensi Operasional,Teknologi,Teknologi,Teknologi
+D00342,detik,Gara-gara ChatGPT Ijazah Mahasiswa Satu Kelas Tertahan,Teknologi,Nasional,Teknologi
+D06560,detik,"Hadapi Tantangan Global, CIMB Gelar Acara Bahas AI hingga Supply Chain",Ekonomi,Ekonomi,Ekonomi
+D05841,detik,"CoreWeave Bangun 3 Pusat Data AI di Indonesia, Kapasitas 360 MW",Teknologi,Teknologi,Teknologi
+D05349,detik,Keren! Remaja 15 Tahun Ini Ciptakan Robot Kura-kura AI dan Diganjar Penghargaan,Pendidikan,Hiburan,Pendidikan
+D00820,detik,Bamsoet Raih Penghargaan Best Data and AI Governance Sektor Legislatif,Nasional,Ekonomi,Nasional
+D01568,detik,Seniman Karikatur di Bali Masih Eksis di Tengah Gempuran Teknologi AI,Nasional,Hiburan,Nasional
+D04171,cnn,"Ilmuwan Terkemuka AI Tinggalkan Meta, Mau Buat Startup",Teknologi,Teknologi,Teknologi
+D05604,detik,Ada Bahaya Terselubung di Balik Infrastruktur Cloud Akibat AI Terlalu Masif,Teknologi,Teknologi,Teknologi
+D04027,cnn,"Adopsi AI Makin Luas, Google Mau Buat Pusat Data di Luar Angkasa",Teknologi,Teknologi,Teknologi
+D06603,liputan6,Top 3 Tekno: AS Blokir DeepSeek Jadi Sorotan,Teknologi,Teknologi,Teknologi
+D01143,detik,"Sukses di Reels, Facebook Gunakan AI Buat Rekomendasikan Video",Teknologi,Teknologi,Teknologi
+D01660,cnn,"Idol Ikut Terdampak, Agensi Kpop Siap Perangi Teror Foto Deepfake",Hiburan,Hiburan,Hiburan
+D04335,detik,"Gara-gara AI, Smartphone Akan Kembali Pakai RAM 4GB",Teknologi,Teknologi,Teknologi
+D04378,liputan6,"Awas, Mayoritas Penipuan Digital Berawal dari Hal Ini",Ekonomi,Ekonomi,Teknologi
+D06214,detik,"UGM Buat AI untuk Bantu Klaim BPJS Kesehatan, Bisa Temukan Klaim Mencurigakan",Pendidikan,Pendidikan,Pendidikan
+D01611,liputan6,"Gemini Live Hadir, Obrolan AI Jadi Lebih Seru dan Personal",Teknologi,Teknologi,Teknologi
+D02087,liputan6,iOS 18.2 Luncurkan Fitur Ghostwriting Lewat Apple Intelligence,Teknologi,Teknologi,Teknologi
+D05222,cnn,Eks Bos OpenAI Ungkap Sam Altman Sering Berbohong,Teknologi,Teknologi,Teknologi
+D02853,detik,"5 Jurusan Kuliah yang Aman dari AI, Lapangan Kerja Masih Luas",Pendidikan,Pendidikan,Pendidikan
+D05758,detik,"Geledah Kantor Disdik Riau, Jaksa Ternyata Usut Dugaan Korupsi Pengadaan AI",Nasional,Nasional,Nasional
+D02872,liputan6,Top 3 Tekno: ChatGPT Down hingga iPhone yang Tak Kebagian Update iOS 26 Tuai Perhatian,Teknologi,Teknologi,Teknologi
+D04013,detik,Apple Pastikan AI untuk Siri Hadir Maret 2026,Teknologi,Teknologi,Teknologi
+D05061,liputan6,Saham Allbirds Meroket 580% Usai Umumkan Pivot Drastis dari Sepatu ke Industri AI,Ekonomi,Ekonomi,Ekonomi
+D00147,liputan6,"Emma Watson dan Scarlett Johansson Jadi Objek Deepfake Video Dewasa, Wajahnya Disatukan de...",Hiburan,Hiburan,Hiburan
+D05941,liputan6,"Mark Zuckerberg hingga Sam Altman, Mengapa Bos Teknologi Ramai Bikin Manifesto AI?",Teknologi,Teknologi,Teknologi
+D03933,detik,"Amazon Bakal PHK 30.000 Karyawan, Fokus Pangkas Biaya dan Investasi ke AI",Teknologi,Ekonomi,Ekonomi
+D01320,cnn,Google Luncurkan Sederet Fitur AI Baru di I/O 2024,Teknologi,Teknologi,Teknologi
+D04977,detik,"Laporan JAKI Dibalas Foto AI, Lurah Kalisari Diperiksa Inspektorat DKI",Nasional,Nasional,Nasional
+D06223,detik,Data Center AI Diprediksi Hasilkan Jutaan Ton Limbah Elektronik,Teknologi,Teknologi,Teknologi
+D01175,detik,"Lenovo Rilis ThinkStation P8 di RI, Dirancang untuk Tangani AI",Teknologi,Teknologi,Teknologi
+D03571,detik,Bank Sumsel Babel Dukung Penuh Webinar Guru Indonesia Belajar AI,Nasional,Ekonomi,Nasional
+D05191,detik,"Elon Musk Tak Ada Lawan, Cuma Perempuan Ini yang Bikin Dia Jiper",Teknologi,Teknologi,Teknologi
+D05417,cnn,"Manfaatkan AI, FDC Dental Clinic Permudah Layanan Kesehatan Gigi",Hiburan,Teknologi,Hiburan
+D04904,detik,Waspada Hoaks Pendaftaran CPNS 2026 Pakai AI,Nasional,Teknologi,Nasional
+D05024,detik,Bos LinkedIn Ungkap Skill '5C' yang Tak Akan Tergantikan Oleh AI,Hiburan,Pendidikan,Teknologi
+D04408,cnn,"Perhatian, Langganan ChatGPT Wajib Bayar Pajak",Ekonomi,Ekonomi,Ekonomi
+D04579,detik,Perpres AI Ditargetkan Rampung Dua Bulan Lagi,Teknologi,Teknologi,Teknologi
+D02154,detik,"Elon Musk Sentil Proyek AI Trump, Sebut Investor Tak Punya Duit",Ekonomi,Ekonomi,Ekonomi
+D00942,detik,Bocoran Fitur AI yang Akan Hadir di Samsung Galaxy S24 Series,Teknologi,Teknologi,Teknologi
+D04923,detik,Mark Zuckerberg Dkk Jadi Dewan Penasihat AI untuk Amerika,Teknologi,Teknologi,Teknologi
+D03042,cnn,RI Siap Jadi Pusat Komputasi Mutakhir AI dan Teknologi Kuantum di Asia,Ekonomi,Ekonomi,Ekonomi
+D01696,detik,Di Negara Maju Ada Polemik Royalti Musik Gak Sih?,Hiburan,Ekonomi,Hiburan
+D03647,liputan6,Begini Cara Smartphone dan Gemini AI Jadi Asisten Riset Pribadi,Teknologi,Teknologi,Teknologi
+D01890,detik,"Erick Thohir Bertemu Manusia Rp 2.000 Triliun, Bicarakan Hal Ini",Ekonomi,Teknologi,Ekonomi
+D00776,cnn,"Efek AI Buat Internet BAKTI, Efisienkan Pemeliharaan Jaringan",Teknologi,Teknologi,Teknologi
+D02835,detik,GoTo-Indosat Luncurkan Sahabat-AI,Ekonomi,Teknologi,Ekonomi
+D04914,liputan6,"OpenAI Tutup Sora, Aplikasi AI Video yang Sempat Viral Kini Resmi Pamit",Teknologi,Teknologi,Teknologi
+D03484,detik,"Contoh Prompt Gemini AI Edit Foto Polaroid Bareng Orang Tua, Idola, hingga Keluarga",Nasional,Nasional,Nasional
+D05514,cnn,A24 Dapat Suntikan Investasi Google Kembangkan AI,Hiburan,Teknologi,Hiburan
+D05243,detik,"Meta Latih AI Pakai Gerak-gerik Karyawan, Bikin Suasana Tak Nyaman",Teknologi,Teknologi,Teknologi
+D05847,detik,"Unair Tegaskan Batasan Penggunaan AI di Kampus, Ini Ketentuannya",Pendidikan,Pendidikan,Pendidikan
+D04141,liputan6,"Transformasi Google Maps dengan Gemini AI, Bisa Ajak Ngobrol dengan 4 Fitur Baru!",Teknologi,Teknologi,Teknologi
+D01319,detik,Menguak Penggunaan AI di Kingdom of the Planet of the Apes,Hiburan,Hiburan,Hiburan
+D00160,detik,"AI Google Bakal Deteksi Kanker, Geser Peran Dokter?",Teknologi,Teknologi,Hiburan
+D01376,detik,Ini Dia Laptop Copilot+ PC Pertama dari Acer,Teknologi,Teknologi,Teknologi
+D00636,detik,"AP II Kenalkan AeroBuddy, Platform AI Pertama di Bandara Indonesia",Ekonomi,Ekonomi,Ekonomi
+D01746,detik,Airlangga Pastikan AI Tak Mengancam Tenaga Kerja,Ekonomi,Ekonomi,Ekonomi
+D02173,detik,5 Fakta Sindikat Deepfake Catut Prabowo Dibongkar Bareskrim Polri,Nasional,Nasional,Nasional
+D00111,cnn,"Sisi-sisi Gelap AI Macam ChatGPT, Plagiarisme Hingga PHK",Teknologi,Teknologi,Nasional
+D04879,detik,5 Aplikasi Edit Terbaik untuk Hapus Objek Mengganggu di Foto,Nasional,Hiburan,Hiburan
+D01868,detik,"Sanata Dharma Gelar LLTC 2024, Angkat Isu Penggunaan AI di Dunia Pendidikan",Pendidikan,Pendidikan,Pendidikan
+D03231,detik,Korsel Kerahkan Raksasa Teknologi untuk Saingi AI China dan AS,Teknologi,Teknologi,Teknologi
+D01635,detik,ASN Wajib Melek Digital & Manfaatkan AI Agar Layanan Makin Efektif,Ekonomi,Ekonomi,Ekonomi
+D05495,detik,"Kreator Deepfake aespa Dipenjara 2,5 Tahun!",Hiburan,Hiburan,Hiburan
+D03774,detik,Survei OECD: Guru yang Kolaborasi Lebih Memungkinkan Capai Tujuan Pembelajaran,Pendidikan,Pendidikan,Pendidikan
+D04891,cnn,Polisi soal Wajah Terduga Penyiraman Air Keras: Ini Bukan AI,Nasional,Nasional,Nasional
+D02713,liputan6,Lenovo Luncurkan ThinkPad Aura Edition Copilot+ PC: Laptop AI untuk Profesional,Teknologi,Teknologi,Teknologi
+D06325,detik,"Beasiswa Pelatihan Guru Kemendikdasmen-LPDP Buka Pendaftaran Lagi, Cek Jadwalnya",Pendidikan,Pendidikan,Pendidikan
+D02227,liputan6,Kaspersky: Sifat Open Source DeepSeek AI Bisa Timbulkan Risiko Keamanan,Teknologi,Teknologi,Teknologi
+D00741,detik,"Dapat Modal Rp 365 Miliar, Aplikasi Bahasa Teknologi AI Ini Perluas Pasar di RI",Ekonomi,Ekonomi,Ekonomi
+D05218,liputan6,"Binance Cegah Penipuan Kripto Pakai AI, Nilainya Fantastis",Ekonomi,Ekonomi,Ekonomi
+D03149,detik,"Pakar AI Tolak Gaji Rp 16,4 Triliun dari Mark Zuckerberg",Teknologi,Teknologi,Teknologi
+D04709,cnn,"Tren Baru, Anak Muda China Rayakan Imlek secara Virtual dan Pakai AI",Hiburan,Hiburan,Teknologi
+D05753,detik,Dracin Overdo yang Dibintangi Zhang Linghe Tuai Kontroversi karena Pakai AI,Hiburan,Hiburan,Hiburan
+D05184,cnn,"Asus Rilis Deretan Laptop Terbaru, Ada Zenbook Duo Harga Rp55 Juta",Teknologi,Teknologi,Teknologi
+D05651,detik,"Viral Robot AI Jadi Model Catwalk, Dihujat Netizen karena Mirip Zombi Berjalan",Hiburan,Hiburan,Hiburan
+D03943,detik,Microsoft Diam-diam Pantau Gamer di Windows 11,Teknologi,Teknologi,Teknologi
+D04113,detik,3 Inovasi AI+5G Paling Canggih dari Ericsson Hackathon 2025,Teknologi,Teknologi,Teknologi
+D04932,detik,"Diakuisisi Meta Rp 33 Triliun, Pendiri Manus AI Dicekal China",Teknologi,Teknologi,Teknologi
+D05343,cnn,YouTube Resmi Akan Pasang Label Otomatis untuk Konten AI,Teknologi,Teknologi,Teknologi
+D04559,detik,Mahir Analisis Data Kuantitatif dengan Software Gratis & AI Hanya dalam 40 Hari,Pendidikan,Pendidikan,Pendidikan
+D00242,cnn,"Mengenal X.AI, Perusahaan Baru Elon Musk di Bidang Kecerdasan Buatan",Teknologi,Teknologi,Nasional
+D02679,detik,"Kisah Wanita Bisu Tuli yang Kecantikannya Viral, Wajahnya Dikira Editan AI",Hiburan,Hiburan,Hiburan
+D01478,liputan6,"Waspada Pilah Informasi, Konten Deepfake di Media Sosial Dapat Timbulkan Kerugian",Teknologi,Teknologi,Teknologi
+D02232,detik,"SoftBank Mau Suntik Rp 648 T ke Pemilik ChatGPT, Mau Saingi DeepSeek?",Ekonomi,Ekonomi,Ekonomi
+D04746,detik,"Perusahaaan Micin dan Toilet Ikut Gacor Karena AI, Kok Bisa?",Teknologi,Teknologi,Teknologi
+D05190,detik,"Kisah Aktor China Kena 'Lay-Off' karena AI, Dulu Terkenal Kini Jadi Petani",Hiburan,Hiburan,Hiburan
+D06547,detik,100 Lagu Terpopuler di Korea Selatan: AI Ambil Alih Chart Musik Utama!,Hiburan,Hiburan,Hiburan
+D06268,detik,Bingung Mulai Bikin Website dengan AI? Ini yang Bisa Dipelajari,Pendidikan,Pendidikan,Pendidikan
+D04319,detik,OPPO Hadirkan Robot AI Interaktif di Flagship Store Gandaria City,Teknologi,Teknologi,Teknologi
+D01299,detik,BRI Gandeng Microsoft Genjot Inklusi Keuangan RI Pakai AI,Ekonomi,Ekonomi,Ekonomi
+D05741,detik,5 Alasan Samsung Galaxy Z Flip8 Siap Jadi HP Lipat Teratas di 2026,Teknologi,Teknologi,Teknologi
+D02573,detik,"Penggunaan AI oleh Media, Pakar Jelaskan Sejauh Mana Pemanfaatannya",Pendidikan,Hiburan,Nasional
+D02734,detik,Mark Zuckerberg Ingin AI Jadi Teman untuk Orang yang Kesepian,Teknologi,Pendidikan,Teknologi
+D01702,detik,"Italia Bakal Adopsi AI Sebagai Asisten Guru di Sekolah, Masuk Tahap Uji Coba",Pendidikan,Pendidikan,Pendidikan
+D03875,detik,"5 AI Buat Bantu Skripsi dan Penelitian, Tak Hanya Chat GPT dan Gemini!",Pendidikan,Pendidikan,Pendidikan
+D03313,liputan6,Dari Grafik ke Percakapan: Bagaimana ChatGPT dan Grok Ubah Cara Trading Kripto,Ekonomi,Ekonomi,Ekonomi
+D04965,detik,Jokowi Bicara Tantangan Global: Akan Sulit Bedakan yang Asli dan AI,Nasional,Ekonomi,Nasional
+D06423,detik,DPRD Jabar Soroti Izin Pusat Data AI Jatiluhur,Nasional,Nasional,Nasional
+D04578,detik,"Tencent Cloud Optimistis Tumbuh di Indonesia, Siapkan Inovasi AI",Teknologi,Teknologi,Teknologi
+D06575,liputan6,"5 Ciri Kepribadian Orang Suka Diskusi dengan AI, Tinjauan Psikologi dan Interaksi Manusia-...",Hiburan,Hiburan,Pendidikan
+D04084,cnn,Softbank Jual Seluruh Saham Nvidia Rp97 T Buat Investasi ke Bisnis AI,Ekonomi,Ekonomi,Ekonomi
+D01666,detik,"BLACKPINK Jadi Korban Editan Video Porno, YG Entertainment Siap Tindak Pelaku",Hiburan,Hiburan,Hiburan
+D04514,liputan6,Kekuatan AI: Menyelamatkan Lingkungan atau Membahayakannya?,Nasional,Pendidikan,Teknologi
+D01555,cnn,"Sketsa AI ala Samsung, Dinilai Ajaib Sekaligus Merisaukan",Teknologi,Teknologi,Teknologi
+D00060,detik,"Pakai AI, Microsoft Bing Mau Usik Dominasi Google",Teknologi,Teknologi,Teknologi
+D04380,detik,"Belajar Coding dari Usia 7 Tahun, Remaja Ini Bikin Perusahaan-Berpenghasilan Rp 23 M",Pendidikan,Pendidikan,Ekonomi
+D03012,detik,"Jualan Makin Canggih, UMKM Kini Diajari Pemasaran Pakai AI",Ekonomi,Ekonomi,Ekonomi
+D05128,detik,Pekerjaan yang Tergantikan dan Tertolong AI Menurut Peneliti Harvard,Ekonomi,Pendidikan,Pendidikan
+D05735,detik,Waspada Dab! Beredar Video Pernyataan Sultan HB X Hasil Rekayasa AI,Nasional,Nasional,Nasional
+D06302,cnn,Xi Jinping: China-AS Punya Tanggung Jawab Kelola Perkembangan AI,Teknologi,Ekonomi,Teknologi
+D04347,cnn,"ASUS Zenbook 14 OLED: Laptop AI Tipis, Baterai Awet buat Kerja Hybrid",Nasional,Teknologi,Teknologi
+D03078,detik,Perjudian Rp 245 Triliun Ala Mark Zuckerberg,Teknologi,Teknologi,Teknologi
+D05001,detik,Belajar Bikin Video Cinematic Lebih Realistis? Teknik Ini Jarang Diketahui Kreator,Pendidikan,Pendidikan,Pendidikan
+D05960,cnn,"OpenAI Rilis ChatGPT Khusus Remaja, Lebih Aman Untuk Anak-anak?",Teknologi,Teknologi,Teknologi
+D04654,detik,"Infinix Rilis XOS 16 Berbasis Android 16, Fitur AI Makin Canggih",Teknologi,Teknologi,Teknologi
+D01920,detik,"Berkat Teknologi AI, Dua Startup Lokal Bikin Inovasi Canggih",Teknologi,Hiburan,Teknologi
+D06696,detik,"Nicole Kidman Tampil Bak Remaja di Pemotretan Vogue, Dituduh Pakai AI",Hiburan,Hiburan,Hiburan
+D05168,liputan6,"Coinbase PHK 700 Karyawan, Fokus AI jadi Pemicu",Ekonomi,Ekonomi,Ekonomi
+D03984,detik,Prabowo Ungkap Jurus RI Kejar Swasembada Pangan di APEC: Pakai AI,Ekonomi,Ekonomi,Ekonomi
+D01855,liputan6,"ChatGPT Tambah Fitur Pencarian Riwayat, Cari Chat Lama Jadi Lebih Mudah",Teknologi,Teknologi,Teknologi
+D05809,cnn,Sam Altman Temui Senator AS Usai Model OpenAI Bobol 4 Layanan,Teknologi,Teknologi,Teknologi
+D01499,detik,Studi: AI Bisa Bikin Orang Lebih Mudah Menuduh Orang Lain Berbohong,Pendidikan,Pendidikan,Teknologi
+D06549,detik,"Deretan Peneliti ITS dalam World's Top 2% Scientists 2026, Bidang AI hingga Fisika",Pendidikan,Pendidikan,Pendidikan
+D01163,detik,Sri Lanka Bakal Masukkan AI dalam Sistem Pendidikannya,Pendidikan,Pendidikan,Pendidikan
+D00601,detik,Demokrat 'Rayu' Mega hingga Golden Visa Pertama RI untuk Bos ChatGPT,Nasional,Nasional,Nasional
+D00510,detik,"AI Dipakai Buat Kampanye, Konsultan Politik di Ujung Tanduk?",Teknologi,Teknologi,Teknologi
+D04197,detik,Telkomsel Siapkan Inovasi Baru 5G-AI Usai Raih Anugerah Awards,Teknologi,Teknologi,Teknologi
+D03183,detik,Tetangga Indonesia Ini Jadi 'Negara' Pertama yang Presiden dan Menterinya AI,Teknologi,Teknologi,Teknologi
+D06652,detik,Remaja Ajaib Usia 17 Tahun Tembus Jajaran Peneliti AI Elite Dunia,Teknologi,Teknologi,Teknologi
+D04884,liputan6,"Prediksi Harga Kripto Pakai AI Semakin Tren, Investor Harus Hati-Hati",Ekonomi,Ekonomi,Ekonomi
+D00139,cnn,"Belum Terbuka untuk Umum, AI Milik Meta Bocor di Forum Internet",Teknologi,Teknologi,Teknologi
+D02554,liputan6,OpenAI Gugat Elon Musk karena Dianggap Gunakan Taktik Buruk dalam Bisnis,Teknologi,Teknologi,Teknologi
+D06301,detik,"Mengenal meomuru, Penyanyi AI yang Jebol Chart Melon Top 100",Hiburan,Hiburan,Hiburan
+D01260,detik,Bisnis Pacar AI Diprediksi Semakin Marak,Teknologi,Teknologi,Nasional
+D05742,detik,"Samsung Galaxy Watch Ultra2 dan Watch9 Rilis, Berapa Harga di Indonesia?",Teknologi,Teknologi,Teknologi
+D00575,detik,"Daftar Skill yang Dibutuhkan Lulusan STEM Masa Depan, Anak IT Merapat!",Pendidikan,Pendidikan,Pendidikan
+D00860,detik,"Kominfo Akan Terbitkan SE Etika AI, Pelanggar Disanksi Pakai UU ITE",Teknologi,Teknologi,Teknologi
+D03771,liputan6,"Prompt Gemini AI Viral Edit Foto Sendiri dengan Background Warna Polos, Begini Langkahnya",Hiburan,Hiburan,Hiburan
+D05263,detik,"Karyawan Meta Berontak, Zuckerberg Terancam Kehilangan Kendali",Teknologi,Teknologi,Teknologi
+D04672,detik,Tecno Megapad SE Resmi Rilis: Spesifikasi dan Harga di Indonesia,Teknologi,Teknologi,Teknologi
+D00405,detik,OpenAI hingga Adobe Tawarkan Gaji Selangit Demi Kembangkan AI,Ekonomi,Pendidikan,Ekonomi
+D01659,liputan6,"Twice Jadi Korban Video Deepfake Tak Senonoh, JYP Entertainment Berikrar Kejar Pelaku Tanp...",Hiburan,Hiburan,Hiburan
+D02949,detik,LG Rilis TV OLED & QNED 2025 Serta Speaker XBoom Terbaru di RI,Teknologi,Teknologi,Teknologi
+D04415,liputan6,OpenAI Mau Rekrut Kepala Kesiapsiagaan Baru untuk Cegah Bahaya AI,Teknologi,Teknologi,Teknologi
+D05213,detik,"UNS Buka 5 Prodi Baru di Seleksi Mandiri 2026, Ada AI hingga Keuangan Islam",Nasional,Pendidikan,Pendidikan
+D02344,liputan6,"Xiaomi Bawa DeepSeek AI ke HyperOS, Ini Deretan HP Xiaomi yang Kebagian",Teknologi,Teknologi,Teknologi
+D01966,detik,Wamendikti Stella Ungkap 3 Konsekuensi Jika Pelajar Ketergantungan ChatGPT,Pendidikan,Pendidikan,Pendidikan
+D02226,cnn,Harta Orang Terkaya Dunia Amblas Rp1.700 T Gara-gara DeepSeek,Ekonomi,Ekonomi,Ekonomi
+D05352,detik,Apa Jadinya Jika Ilmuwan Lebih Percaya AI Ketimbang Rekan Penelitinya?,Pendidikan,Pendidikan,Pendidikan
+D06402,detik,"KDM Setop Proyek Pusat Data AI di Jatiluhur, Bisa Bikin Investor Kabur?",Ekonomi,Ekonomi,Ekonomi
+D03453,detik,Contoh Prompt dan Cara Membuat Foto Miniatur AI untuk Gantungan Kunci,Nasional,Hiburan,Nasional
+D04157,detik,Kreator AI: Kalian Bakalan Lihat Banyak Tilly Norwood Tahun Depan,Hiburan,Hiburan,Hiburan
+D03525,liputan6,"Rivalitas Elon Musk dan Sam Altman Memanas, OpenAI Gaet Mantan CFO xAI",Ekonomi,Ekonomi,Ekonomi
+D03125,detik,Seru! Morinaga Beri Kesempatan Foto Orang Tua & Anak Tampil di Videotron,Pendidikan,Hiburan,Hiburan
+D05693,detik,"Codex OpenAI Meledak di RI, Separuh Penggunanya Bukan Programmer",Teknologi,Teknologi,Teknologi
+D05433,detik,"6 Jurusan Kuliah yang Menjanjikan pada Era AI, Ada Jurusanmu?",Pendidikan,Pendidikan,Pendidikan
+D03187,cnn,"Pertama di Dunia, Robot Humanoid AI Ini Diterima Kuliah S3",Teknologi,Pendidikan,Pendidikan
+D06218,cnn,Benarkah AI Bisa Musnahkan Umat Manusia? Ini Kata Bapak AI Dunia,Teknologi,Teknologi,Teknologi
+D05538,liputan6,Contoh Pengenalan Pola dalam Teknologi dan Kehidupan Sehari-hari yang Perlu Dipahami,Hiburan,Teknologi,Pendidikan
+D03594,liputan6,"6 Cara Membedakan Foto Asli dan Foto Hasil AI, Perhatikan Detail Visual",Hiburan,Teknologi,Nasional
+D04487,detik,Investigasi Ungkap Grok AI Diduga Dipakai untuk Gambar Seksual Anak,Teknologi,Teknologi,Teknologi
+D05646,liputan6,"Samsung Health Pakai Data Pengguna untuk Latih AI, Privasi Jadi Sorotan",Teknologi,Teknologi,Teknologi
+D00150,liputan6,"Deepfake Suara Pemilu 2024, Publik Diminta Tak Percaya Satu Informasi",Nasional,Nasional,Nasional
+D05107,detik,"Kisah Nenek 80 Tahun 'Dibohongi' Keluarga Pakai AI, Alasannya Bikin Haru",Hiburan,Hiburan,Hiburan
+D05935,detik,"Dari Prompt Sampai Live di Vercel, Ini Alur Bikin Website Pakai AI",Pendidikan,Pendidikan,Pendidikan
+D04088,cnn,"Korlantas Sebar 200 CCTV AI di Bandung, Pionir Smart Road Safety",Nasional,Nasional,Nasional
+D03485,detik,Cara Membuat Foto Polaroid Gemini Lengkap dengan Promptnya,Nasional,Nasional,Nasional
+D04759,liputan6,Laporan Citi: Era AI Ubah Pembiayaan Rantai Pasok,Ekonomi,Ekonomi,Ekonomi
+D02340,detik,Ini Ancaman Elon Musk untuk Pembuat ChatGPT,Teknologi,Teknologi,Teknologi
+D00054,cnn,Microsoft Permak Bing Pakai Teknologi AI Mirip ChatGPT,Teknologi,Teknologi,Teknologi
+D04235,detik,Jurus India Kebut Pendidikan AI: Mulai Kelas 3 SD-Sediakan Kursus Gratis,Pendidikan,Pendidikan,Pendidikan
+D04131,detik,"Sukses Kuasai Seni Prompt Engineering, Ini 5 Peserta Terbaik Kelas",Pendidikan,Pendidikan,Pendidikan
+D01917,liputan6,"DMMX di SIAL Interfood 2024, Mengubah Pengalaman Belanja Pelanggan dengan Teknologi AI",Hiburan,Ekonomi,Ekonomi
+D01267,detik,"Kursus AI & ChatGPT: Materi Lengkap, 100% Online, dan Bersertifikat!",Pendidikan,Pendidikan,Pendidikan
+D06042,detik,Waspada Penipuan AI: Modus Kloning Suara,Ekonomi,Nasional,Nasional
+D02876,detik,Indonesia Peringkat Ke-47 Fokus Kuasai GenAI,Teknologi,Teknologi,Pendidikan

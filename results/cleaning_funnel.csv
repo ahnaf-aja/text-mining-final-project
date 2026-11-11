@@ -1,0 +1,8 @@
+tahap,jumlah_dokumen
+Record mentah hasil scraping,23024
+Punya isi & tanggal dalam periode (Des 2022–Okt 2026),22513
+Setelah deduplikasi URL dan judul,22492
+Relevan dengan AI (fungsi is_relevant),10318
+Panjang isi 100–3.000 kata,10279
+"Setelah buang near-duplicate (cosine > 0,9)",10031
+Dataset akhir (kelas terbesar dibatasi 3000),6714

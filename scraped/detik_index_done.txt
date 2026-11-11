@@ -1,0 +1,564 @@
+AI|2022-12
+AI|2023-03
+AI|2023-02
+AI|2023-01
+AI|2023-04
+AI|2023-06
+AI|2023-05
+AI|2023-07
+AI|2023-08
+AI|2023-09
+AI|2023-10
+AI|2023-11
+AI|2023-12
+AI|2024-02
+AI|2024-01
+AI|2024-03
+AI|2024-04
+AI|2024-05
+AI|2024-06
+AI|2024-08
+AI|2024-07
+AI|2024-09
+AI|2024-11
+AI|2024-10
+AI|2024-12
+AI|2025-01
+AI|2025-03
+AI|2025-02
+AI|2025-04
+AI|2025-05
+AI|2025-06
+AI|2025-07
+AI|2025-08
+AI|2025-09
+AI|2025-10
+AI|2025-11
+AI|2025-12
+AI|2026-02
+AI|2026-01
+AI|2026-03
+AI|2026-04
+AI|2026-05
+AI|2026-06
+AI|2026-07
+kecerdasan buatan|2022-12
+AI|2026-08
+kecerdasan buatan|2023-01
+kecerdasan buatan|2023-02
+kecerdasan buatan|2023-03
+kecerdasan buatan|2023-04
+kecerdasan buatan|2023-05
+kecerdasan buatan|2023-06
+kecerdasan buatan|2023-07
+AI|2026-09
+kecerdasan buatan|2023-08
+kecerdasan buatan|2023-09
+kecerdasan buatan|2023-10
+kecerdasan buatan|2023-11
+kecerdasan buatan|2023-12
+AI|2026-10
+kecerdasan buatan|2024-02
+kecerdasan buatan|2024-01
+kecerdasan buatan|2024-03
+kecerdasan buatan|2024-04
+kecerdasan buatan|2024-05
+kecerdasan buatan|2024-06
+kecerdasan buatan|2024-08
+kecerdasan buatan|2024-07
+kecerdasan buatan|2024-09
+kecerdasan buatan|2024-10
+kecerdasan buatan|2024-11
+kecerdasan buatan|2024-12
+kecerdasan buatan|2025-03
+kecerdasan buatan|2025-01
+kecerdasan buatan|2025-02
+kecerdasan buatan|2025-04
+kecerdasan buatan|2025-06
+kecerdasan buatan|2025-05
+kecerdasan buatan|2025-07
+kecerdasan buatan|2025-08
+kecerdasan buatan|2025-09
+kecerdasan buatan|2025-12
+kecerdasan buatan|2025-10
+kecerdasan buatan|2025-11
+kecerdasan buatan|2026-02
+kecerdasan buatan|2026-01
+kecerdasan buatan|2026-03
+kecerdasan buatan|2026-04
+kecerdasan buatan|2026-05
+kecerdasan buatan|2026-07
+kecerdasan buatan|2026-06
+artificial intelligence|2022-12
+kecerdasan buatan|2026-08
+artificial intelligence|2023-01
+artificial intelligence|2023-03
+artificial intelligence|2023-02
+artificial intelligence|2023-04
+artificial intelligence|2023-05
+kecerdasan buatan|2026-09
+artificial intelligence|2023-06
+artificial intelligence|2023-07
+kecerdasan buatan|2026-10
+artificial intelligence|2023-08
+artificial intelligence|2023-09
+artificial intelligence|2023-10
+artificial intelligence|2023-11
+artificial intelligence|2024-02
+artificial intelligence|2023-12
+artificial intelligence|2024-03
+artificial intelligence|2024-01
+artificial intelligence|2024-04
+artificial intelligence|2024-05
+artificial intelligence|2024-06
+artificial intelligence|2024-07
+artificial intelligence|2024-08
+artificial intelligence|2024-09
+artificial intelligence|2024-10
+artificial intelligence|2024-11
+artificial intelligence|2024-12
+artificial intelligence|2025-01
+artificial intelligence|2025-03
+artificial intelligence|2025-04
+artificial intelligence|2025-02
+artificial intelligence|2025-05
+artificial intelligence|2025-06
+artificial intelligence|2025-07
+artificial intelligence|2025-08
+artificial intelligence|2025-09
+artificial intelligence|2025-10
+artificial intelligence|2025-12
+artificial intelligence|2025-11
+artificial intelligence|2026-01
+artificial intelligence|2026-02
+artificial intelligence|2026-03
+artificial intelligence|2026-04
+artificial intelligence|2026-05
+artificial intelligence|2026-06
+artificial intelligence|2026-07
+artificial intelligence|2026-08
+ChatGPT|2022-12
+ChatGPT|2023-01
+artificial intelligence|2026-09
+ChatGPT|2023-02
+ChatGPT|2023-03
+artificial intelligence|2026-10
+ChatGPT|2023-04
+ChatGPT|2023-08
+ChatGPT|2023-06
+ChatGPT|2023-07
+ChatGPT|2023-05
+ChatGPT|2023-10
+ChatGPT|2023-09
+ChatGPT|2023-11
+ChatGPT|2023-12
+ChatGPT|2024-01
+ChatGPT|2024-02
+ChatGPT|2024-03
+ChatGPT|2024-04
+ChatGPT|2024-05
+ChatGPT|2024-07
+ChatGPT|2024-08
+ChatGPT|2024-06
+ChatGPT|2024-09
+ChatGPT|2024-11
+ChatGPT|2024-10
+ChatGPT|2024-12
+ChatGPT|2025-01
+ChatGPT|2025-03
+ChatGPT|2025-02
+ChatGPT|2025-04
+ChatGPT|2025-05
+ChatGPT|2025-06
+ChatGPT|2025-09
+ChatGPT|2025-07
+ChatGPT|2025-10
+ChatGPT|2025-08
+ChatGPT|2025-12
+ChatGPT|2026-02
+ChatGPT|2026-01
+ChatGPT|2025-11
+ChatGPT|2026-04
+ChatGPT|2026-05
+ChatGPT|2026-03
+ChatGPT|2026-06
+ChatGPT|2026-07
+ChatGPT|2026-08
+OpenAI|2022-12
+ChatGPT|2026-09
+ChatGPT|2026-10
+OpenAI|2023-01
+OpenAI|2023-02
+OpenAI|2023-03
+OpenAI|2023-04
+OpenAI|2023-05
+OpenAI|2023-06
+OpenAI|2023-08
+OpenAI|2023-07
+OpenAI|2023-09
+OpenAI|2023-10
+OpenAI|2023-12
+OpenAI|2024-02
+OpenAI|2024-01
+OpenAI|2023-11
+OpenAI|2024-03
+OpenAI|2024-04
+OpenAI|2024-07
+OpenAI|2024-05
+OpenAI|2024-06
+OpenAI|2024-08
+OpenAI|2024-09
+OpenAI|2024-10
+OpenAI|2024-11
+OpenAI|2024-12
+OpenAI|2025-03
+OpenAI|2025-02
+OpenAI|2025-01
+OpenAI|2025-04
+OpenAI|2025-05
+OpenAI|2025-06
+OpenAI|2025-07
+OpenAI|2025-08
+OpenAI|2025-09
+OpenAI|2025-10
+OpenAI|2025-11
+OpenAI|2026-01
+OpenAI|2025-12
+OpenAI|2026-02
+OpenAI|2026-03
+OpenAI|2026-04
+OpenAI|2026-05
+OpenAI|2026-06
+OpenAI|2026-07
+AI generatif|2022-12
+OpenAI|2026-08
+AI generatif|2023-01
+AI generatif|2023-02
+AI generatif|2023-03
+AI generatif|2023-04
+OpenAI|2026-10
+AI generatif|2023-05
+AI generatif|2023-06
+AI generatif|2023-07
+AI generatif|2023-08
+AI generatif|2023-09
+AI generatif|2023-11
+AI generatif|2023-12
+AI generatif|2024-01
+AI generatif|2024-02
+AI generatif|2024-03
+AI generatif|2024-04
+AI generatif|2024-05
+AI generatif|2024-06
+AI generatif|2024-07
+AI generatif|2024-08
+AI generatif|2024-09
+AI generatif|2024-11
+AI generatif|2024-10
+AI generatif|2025-01
+AI generatif|2024-12
+AI generatif|2025-03
+AI generatif|2025-02
+AI generatif|2025-04
+AI generatif|2025-05
+AI generatif|2025-06
+AI generatif|2025-07
+AI generatif|2025-08
+AI generatif|2025-09
+AI generatif|2025-10
+AI generatif|2025-11
+AI generatif|2025-12
+AI generatif|2026-01
+AI generatif|2026-02
+AI generatif|2026-03
+AI generatif|2026-05
+AI generatif|2026-04
+AI generatif|2026-07
+AI generatif|2026-06
+AI generatif|2026-08
+AI generatif|2026-09
+generative AI|2022-12
+generative AI|2023-01
+AI generatif|2026-10
+generative AI|2023-02
+generative AI|2023-03
+generative AI|2023-04
+generative AI|2023-05
+generative AI|2023-06
+generative AI|2023-07
+generative AI|2023-08
+generative AI|2023-09
+generative AI|2023-10
+generative AI|2023-11
+generative AI|2023-12
+generative AI|2024-02
+generative AI|2024-01
+AI generatif|2023-10
+generative AI|2024-03
+generative AI|2024-04
+generative AI|2024-05
+generative AI|2024-06
+OpenAI|2026-09
+generative AI|2024-07
+generative AI|2024-08
+generative AI|2024-09
+generative AI|2024-11
+generative AI|2024-10
+generative AI|2025-01
+generative AI|2024-12
+generative AI|2025-02
+generative AI|2025-03
+generative AI|2025-04
+generative AI|2025-05
+generative AI|2025-06
+generative AI|2025-08
+generative AI|2025-07
+generative AI|2025-09
+generative AI|2025-10
+generative AI|2025-11
+generative AI|2025-12
+generative AI|2026-01
+generative AI|2026-03
+generative AI|2026-02
+generative AI|2026-04
+generative AI|2026-06
+generative AI|2026-05
+generative AI|2026-07
+generative AI|2026-08
+generative AI|2026-10
+generative AI|2026-09
+Gemini|2022-12
+Gemini|2023-01
+Gemini|2023-02
+Gemini|2023-03
+Gemini|2023-04
+Gemini|2023-06
+Gemini|2023-05
+Gemini|2023-07
+Gemini|2023-08
+Gemini|2023-09
+Gemini|2023-10
+Gemini|2023-11
+Gemini|2024-01
+Gemini|2023-12
+Gemini|2024-02
+Gemini|2024-03
+Gemini|2024-04
+Gemini|2024-06
+Gemini|2024-05
+Gemini|2024-07
+Gemini|2024-08
+Gemini|2024-09
+Gemini|2024-10
+Gemini|2024-11
+Gemini|2024-12
+Gemini|2025-01
+Gemini|2025-02
+Gemini|2025-03
+Gemini|2025-04
+Gemini|2025-05
+Gemini|2025-06
+Gemini|2025-07
+Gemini|2025-08
+Gemini|2025-10
+Gemini|2025-11
+Gemini|2025-12
+Gemini|2025-09
+Gemini|2026-01
+Gemini|2026-02
+Gemini|2026-03
+Gemini|2026-04
+Gemini|2026-05
+Gemini|2026-06
+Gemini|2026-08
+Gemini|2026-07
+Copilot|2023-01
+Copilot|2022-12
+Copilot|2023-03
+Copilot|2023-04
+Copilot|2023-02
+Copilot|2023-05
+Copilot|2023-06
+Copilot|2023-07
+Copilot|2023-08
+Copilot|2023-09
+Gemini|2026-09
+Copilot|2023-10
+Copilot|2023-11
+Gemini|2026-10
+Copilot|2024-01
+Copilot|2023-12
+Copilot|2024-02
+Copilot|2024-04
+Copilot|2024-03
+Copilot|2024-05
+Copilot|2024-06
+Copilot|2024-08
+Copilot|2024-07
+Copilot|2024-09
+Copilot|2024-10
+Copilot|2024-12
+Copilot|2024-11
+Copilot|2025-01
+Copilot|2025-02
+Copilot|2025-03
+Copilot|2025-04
+Copilot|2025-07
+Copilot|2025-05
+Copilot|2025-06
+Copilot|2025-09
+Copilot|2025-08
+Copilot|2025-11
+Copilot|2025-10
+Copilot|2025-12
+Copilot|2026-01
+Copilot|2026-03
+Copilot|2026-02
+Copilot|2026-04
+Copilot|2026-05
+Copilot|2026-07
+Copilot|2026-06
+Copilot|2026-08
+DeepSeek|2023-01
+DeepSeek|2022-12
+Copilot|2026-09
+DeepSeek|2023-02
+Copilot|2026-10
+DeepSeek|2023-03
+DeepSeek|2023-05
+DeepSeek|2023-06
+DeepSeek|2023-04
+DeepSeek|2023-07
+DeepSeek|2023-08
+DeepSeek|2023-09
+DeepSeek|2023-10
+DeepSeek|2023-11
+DeepSeek|2023-12
+DeepSeek|2024-01
+DeepSeek|2024-02
+DeepSeek|2024-03
+DeepSeek|2024-04
+DeepSeek|2024-05
+DeepSeek|2024-08
+DeepSeek|2024-06
+DeepSeek|2024-07
+DeepSeek|2024-09
+DeepSeek|2024-11
+DeepSeek|2024-10
+DeepSeek|2024-12
+DeepSeek|2025-04
+DeepSeek|2025-03
+DeepSeek|2025-01
+DeepSeek|2025-05
+DeepSeek|2025-06
+DeepSeek|2025-07
+DeepSeek|2025-09
+DeepSeek|2025-08
+DeepSeek|2025-10
+DeepSeek|2025-02
+DeepSeek|2025-11
+DeepSeek|2025-12
+DeepSeek|2026-01
+DeepSeek|2026-02
+DeepSeek|2026-03
+DeepSeek|2026-04
+DeepSeek|2026-05
+DeepSeek|2026-06
+DeepSeek|2026-07
+DeepSeek|2026-08
+DeepSeek|2026-09
+deepfake|2022-12
+DeepSeek|2026-10
+deepfake|2023-01
+deepfake|2023-02
+deepfake|2023-03
+deepfake|2023-04
+deepfake|2023-06
+deepfake|2023-05
+deepfake|2023-07
+deepfake|2023-08
+deepfake|2023-11
+deepfake|2023-09
+deepfake|2023-12
+deepfake|2023-10
+deepfake|2024-02
+deepfake|2024-03
+deepfake|2024-01
+deepfake|2024-05
+deepfake|2024-04
+deepfake|2024-06
+deepfake|2024-07
+deepfake|2024-11
+deepfake|2024-10
+deepfake|2024-08
+deepfake|2024-09
+deepfake|2024-12
+deepfake|2025-03
+deepfake|2025-01
+deepfake|2025-02
+deepfake|2025-04
+deepfake|2025-05
+deepfake|2025-06
+deepfake|2025-07
+deepfake|2025-10
+deepfake|2025-08
+deepfake|2025-11
+deepfake|2025-09
+deepfake|2025-12
+deepfake|2026-03
+deepfake|2026-02
+deepfake|2026-04
+deepfake|2026-06
+deepfake|2026-07
+deepfake|2026-01
+deepfake|2026-08
+deepfake|2026-10
+deepfake|2026-09
+deepfake|2026-05
+chatbot|2022-12
+chatbot|2023-01
+chatbot|2023-03
+chatbot|2023-02
+chatbot|2023-05
+chatbot|2023-04
+chatbot|2023-08
+chatbot|2023-06
+chatbot|2023-07
+chatbot|2023-09
+chatbot|2023-10
+chatbot|2023-11
+chatbot|2023-12
+chatbot|2024-02
+chatbot|2024-01
+chatbot|2024-03
+chatbot|2024-04
+chatbot|2024-05
+chatbot|2024-06
+chatbot|2024-08
+chatbot|2024-07
+chatbot|2024-09
+chatbot|2024-10
+chatbot|2024-11
+chatbot|2024-12
+chatbot|2025-01
+chatbot|2025-02
+chatbot|2025-03
+chatbot|2025-04
+chatbot|2025-05
+chatbot|2025-06
+chatbot|2025-07
+chatbot|2025-09
+chatbot|2025-08
+chatbot|2025-10
+chatbot|2025-12
+chatbot|2025-11
+chatbot|2026-03
+chatbot|2026-02
+chatbot|2026-01
+chatbot|2026-05
+chatbot|2026-04
+chatbot|2026-07
+chatbot|2026-06
+chatbot|2026-08
+chatbot|2026-09
+chatbot|2026-10
